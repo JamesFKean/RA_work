@@ -1,0 +1,54 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/disc6.csv"
+    },
+    "title": {
+      "text": "Discouraged Unemployed % in the US and UK",
+      "anchor": "start",
+      "subtitle": "Sources: Fred & ONS"
+    },
+    "width": 400,
+    "height": 300,
+    "params": [
+      {
+        "name": "View",
+        "select": {"type": "point", "fields": ["cont"]},
+        "bind": {"input": "select", "options": ["UK", "US"], "name": "Country:"},
+        "value": "US"
+      },
+      {
+        "name": "hover",
+        "select": {
+          "type": "point",
+          "fields": ["type"],
+          "toggle": true,
+          "on": "mouseover"
+        }
+      }
+    ],
+    "transform": [{"filter": {"param": "View"}}],
+    "mark": {"type": "line", "point": false},
+    "encoding": {
+      "x": {"field": "DATE", "type": "temporal", "title": "Year"},
+      "y": {
+        "field": "disc_pct",
+        "type": "quantitative",
+        "axis": {"gridOpacity": 0.2},
+        "title": "% Of Labour Force Discouraged "
+      },
+      "color": {"field": "type", "scale": {"range": ["#a12800", "#290c03"]},
+      "legend": null},
+      "opacity": {
+        "condition": {"test": {"param": "hover"}, "value": 1},
+        "value": 0.2
+      },
+      "tooltip": [ {
+            "field": "disc_pct",
+            "type": "quantitative",
+            "format": ".2f",
+            "title": "% of Labor Force"
+          }]
+          
+    }
+  }
