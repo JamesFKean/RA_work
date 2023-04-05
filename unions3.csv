@@ -1,0 +1,820 @@
+,Country,Time,Frequency,MEAS,Value,vegaistrash
+0,Australia,2000,Annual,PCT,24.9,stop
+1,Australia,2001,Annual,PCT,24.6,stop
+2,Australia,2002,Annual,PCT,23.2,stop
+3,Australia,2003,Annual,PCT,23.2,stop
+4,Australia,2004,Annual,PCT,22.8,stop
+5,Australia,2005,Annual,PCT,22.5,stop
+6,Australia,2006,Annual,PCT,20.4,stop
+7,Australia,2007,Annual,PCT,18.8,stop
+8,Australia,2008,Annual,PCT,18.8,stop
+9,Australia,2009,Annual,PCT,19.6,stop
+10,Australia,2010,Annual,PCT,18.4,stop
+11,Australia,2011,Annual,PCT,18.4,stop
+12,Australia,2012,Annual,PCT,18.2,stop
+13,Australia,2013,Annual,PCT,17.0,stop
+14,Australia,2014,Annual,PCT,15.1,stop
+17,Australia,2015,Annual,PCT,15.1,stop
+15,Australia,2016,Annual,PCT,14.6,stop
+18,Australia,2017,Annual,PCT,14.6,stop
+16,Australia,2018,Annual,PCT,13.7,stop
+19,Australia,2019,Annual,PCT,13.7,stop
+20,Australia,2020,Annual,PCT,13.7,stop
+21,Austria,2000,Annual,PCT,36.9,stop
+22,Austria,2001,Annual,PCT,36.2,stop
+23,Austria,2002,Annual,PCT,36.0,stop
+24,Austria,2003,Annual,PCT,34.6,stop
+25,Austria,2004,Annual,PCT,34.8,stop
+26,Austria,2005,Annual,PCT,33.8,stop
+27,Austria,2006,Annual,PCT,31.6,stop
+28,Austria,2007,Annual,PCT,30.4,stop
+29,Austria,2008,Annual,PCT,29.6,stop
+30,Austria,2009,Annual,PCT,29.3,stop
+31,Austria,2010,Annual,PCT,28.9,stop
+32,Austria,2011,Annual,PCT,28.3,stop
+33,Austria,2012,Annual,PCT,28.0,stop
+34,Austria,2013,Annual,PCT,27.8,stop
+35,Austria,2014,Annual,PCT,27.7,stop
+38,Austria,2015,Annual,PCT,27.4,stop
+36,Austria,2016,Annual,PCT,26.9,stop
+39,Austria,2017,Annual,PCT,26.7,stop
+37,Austria,2018,Annual,PCT,26.3,stop
+40,Austria,2019,Annual,PCT,26.3,stop
+41,Austria,2020,Annual,PCT,26.3,stop
+42,Belgium,2000,Annual,PCT,56.6,stop
+43,Belgium,2001,Annual,PCT,57.6,stop
+44,Belgium,2002,Annual,PCT,56.9,stop
+45,Belgium,2003,Annual,PCT,55.4,stop
+46,Belgium,2004,Annual,PCT,55.3,stop
+47,Belgium,2005,Annual,PCT,54.9,stop
+48,Belgium,2006,Annual,PCT,53.8,stop
+49,Belgium,2007,Annual,PCT,53.6,stop
+50,Belgium,2008,Annual,PCT,53.4,stop
+51,Belgium,2009,Annual,PCT,53.8,stop
+52,Belgium,2010,Annual,PCT,53.0,stop
+53,Belgium,2011,Annual,PCT,54.2,stop
+54,Belgium,2012,Annual,PCT,54.1,stop
+55,Belgium,2013,Annual,PCT,53.3,stop
+56,Belgium,2014,Annual,PCT,52.9,stop
+59,Belgium,2015,Annual,PCT,52.3,stop
+57,Belgium,2016,Annual,PCT,51.6,stop
+60,Belgium,2017,Annual,PCT,50.7,stop
+58,Belgium,2018,Annual,PCT,50.0,stop
+61,Belgium,2019,Annual,PCT,49.1,stop
+62,Belgium,2020,Annual,PCT,49.1,stop
+63,Canada,2000,Annual,PCT,28.2,stop
+64,Canada,2001,Annual,PCT,28.4,stop
+65,Canada,2002,Annual,PCT,28.3,stop
+66,Canada,2003,Annual,PCT,28.2,stop
+67,Canada,2004,Annual,PCT,27.8,stop
+68,Canada,2005,Annual,PCT,27.7,stop
+69,Canada,2006,Annual,PCT,27.4,stop
+70,Canada,2007,Annual,PCT,27.3,stop
+71,Canada,2008,Annual,PCT,27.0,stop
+72,Canada,2009,Annual,PCT,27.3,stop
+73,Canada,2010,Annual,PCT,27.2,stop
+74,Canada,2011,Annual,PCT,26.9,stop
+75,Canada,2012,Annual,PCT,27.2,stop
+76,Canada,2013,Annual,PCT,27.1,stop
+77,Canada,2014,Annual,PCT,26.4,stop
+80,Canada,2015,Annual,PCT,26.5,stop
+78,Canada,2016,Annual,PCT,26.3,stop
+81,Canada,2017,Annual,PCT,26.3,stop
+79,Canada,2018,Annual,PCT,25.9,stop
+82,Canada,2019,Annual,PCT,26.1,stop
+83,Canada,2020,Annual,PCT,27.2,stop
+84,Chile,2000,Annual,PCT,11.2,stop
+85,Chile,2001,Annual,PCT,10.9,stop
+86,Chile,2002,Annual,PCT,11.1,stop
+87,Chile,2003,Annual,PCT,11.7,stop
+88,Chile,2004,Annual,PCT,11.5,stop
+89,Chile,2005,Annual,PCT,11.1,stop
+90,Chile,2006,Annual,PCT,11.2,stop
+91,Chile,2007,Annual,PCT,11.5,stop
+92,Chile,2008,Annual,PCT,12.9,stop
+93,Chile,2009,Annual,PCT,13.7,stop
+94,Chile,2010,Annual,PCT,13.9,stop
+95,Chile,2011,Annual,PCT,13.8,stop
+96,Chile,2012,Annual,PCT,14.4,stop
+97,Chile,2013,Annual,PCT,14.1,stop
+98,Chile,2014,Annual,PCT,14.6,stop
+101,Chile,2015,Annual,PCT,15.3,stop
+99,Chile,2016,Annual,PCT,16.9,stop
+102,Chile,2017,Annual,PCT,17.0,stop
+100,Chile,2018,Annual,PCT,16.6,stop
+103,Chile,2019,Annual,PCT,16.6,stop
+104,Chile,2020,Annual,PCT,16.6,stop
+105,Colombia,2000,Annual,PCT,12.3,stop
+106,Colombia,2001,Annual,PCT,12.3,stop
+107,Colombia,2002,Annual,PCT,10.9,stop
+108,Colombia,2003,Annual,PCT,10.9,stop
+109,Colombia,2004,Annual,PCT,10.5,stop
+110,Colombia,2005,Annual,PCT,9.6,stop
+111,Colombia,2006,Annual,PCT,9.6,stop
+112,Colombia,2007,Annual,PCT,9.6,stop
+113,Colombia,2008,Annual,PCT,9.6,stop
+114,Colombia,2009,Annual,PCT,9.4,stop
+115,Colombia,2010,Annual,PCT,9.2,stop
+116,Colombia,2011,Annual,PCT,9.1,stop
+117,Colombia,2012,Annual,PCT,9.1,stop
+118,Colombia,2013,Annual,PCT,9.7,stop
+119,Colombia,2014,Annual,PCT,9.6,stop
+122,Colombia,2015,Annual,PCT,9.4,stop
+120,Colombia,2016,Annual,PCT,9.5,stop
+123,Colombia,2017,Annual,PCT,9.5,stop
+121,Colombia,2018,Annual,PCT,9.5,stop
+124,Colombia,2019,Annual,PCT,9.5,stop
+125,Colombia,2020,Annual,PCT,9.5,stop
+126,Costa Rica,2000,Annual,PCT,14.3,stop
+127,Costa Rica,2001,Annual,PCT,13.5,stop
+128,Costa Rica,2002,Annual,PCT,14.3,stop
+129,Costa Rica,2003,Annual,PCT,14.5,stop
+130,Costa Rica,2004,Annual,PCT,13.9,stop
+131,Costa Rica,2005,Annual,PCT,13.3,stop
+132,Costa Rica,2006,Annual,PCT,12.9,stop
+133,Costa Rica,2007,Annual,PCT,11.5,stop
+134,Costa Rica,2008,Annual,PCT,12.0,stop
+135,Costa Rica,2009,Annual,PCT,13.0,stop
+136,Costa Rica,2010,Annual,PCT,12.9,stop
+137,Costa Rica,2011,Annual,PCT,13.4,stop
+138,Costa Rica,2012,Annual,PCT,13.1,stop
+139,Costa Rica,2013,Annual,PCT,13.7,stop
+140,Costa Rica,2014,Annual,PCT,12.4,stop
+143,Costa Rica,2015,Annual,PCT,18.6,stop
+141,Costa Rica,2016,Annual,PCT,19.3,stop
+144,Costa Rica,2017,Annual,PCT,19.3,stop
+142,Costa Rica,2018,Annual,PCT,19.4,stop
+145,Costa Rica,2019,Annual,PCT,20.5,stop
+146,Costa Rica,2020,Annual,PCT,20.5,stop
+147,Czech Republic,2000,Annual,PCT,27.2,stop
+148,Czech Republic,2001,Annual,PCT,23.8,stop
+149,Czech Republic,2002,Annual,PCT,22.4,stop
+150,Czech Republic,2003,Annual,PCT,22.3,stop
+151,Czech Republic,2004,Annual,PCT,20.6,stop
+152,Czech Republic,2005,Annual,PCT,19.1,stop
+153,Czech Republic,2006,Annual,PCT,18.1,stop
+154,Czech Republic,2007,Annual,PCT,17.4,stop
+155,Czech Republic,2008,Annual,PCT,16.9,stop
+156,Czech Republic,2009,Annual,PCT,16.7,stop
+157,Czech Republic,2010,Annual,PCT,16.1,stop
+158,Czech Republic,2011,Annual,PCT,15.4,stop
+159,Czech Republic,2012,Annual,PCT,14.8,stop
+160,Czech Republic,2013,Annual,PCT,13.6,stop
+161,Czech Republic,2014,Annual,PCT,12.9,stop
+164,Czech Republic,2015,Annual,PCT,11.9,stop
+162,Czech Republic,2016,Annual,PCT,11.9,stop
+165,Czech Republic,2017,Annual,PCT,11.7,stop
+163,Czech Republic,2018,Annual,PCT,11.4,stop
+166,Czech Republic,2019,Annual,PCT,11.4,stop
+167,Czech Republic,2020,Annual,PCT,11.4,stop
+168,Denmark,2000,Annual,PCT,74.5,stop
+169,Denmark,2001,Annual,PCT,73.9,stop
+170,Denmark,2002,Annual,PCT,73.6,stop
+171,Denmark,2003,Annual,PCT,72.4,stop
+172,Denmark,2004,Annual,PCT,71.7,stop
+173,Denmark,2005,Annual,PCT,71.5,stop
+174,Denmark,2006,Annual,PCT,69.7,stop
+175,Denmark,2007,Annual,PCT,69.0,stop
+176,Denmark,2008,Annual,PCT,68.8,stop
+177,Denmark,2009,Annual,PCT,68.9,stop
+178,Denmark,2010,Annual,PCT,68.1,stop
+179,Denmark,2011,Annual,PCT,68.7,stop
+180,Denmark,2012,Annual,PCT,69.0,stop
+181,Denmark,2013,Annual,PCT,68.8,stop
+182,Denmark,2014,Annual,PCT,68.5,stop
+185,Denmark,2015,Annual,PCT,68.2,stop
+183,Denmark,2016,Annual,PCT,67.4,stop
+186,Denmark,2017,Annual,PCT,66.7,stop
+184,Denmark,2018,Annual,PCT,67.5,stop
+187,Denmark,2019,Annual,PCT,67.0,stop
+188,Denmark,2020,Annual,PCT,67.0,stop
+189,Estonia,2000,Annual,PCT,14.0,stop
+190,Estonia,2001,Annual,PCT,14.0,stop
+191,Estonia,2002,Annual,PCT,12.6,stop
+192,Estonia,2003,Annual,PCT,11.0,stop
+193,Estonia,2004,Annual,PCT,9.4,stop
+194,Estonia,2005,Annual,PCT,8.7,stop
+195,Estonia,2006,Annual,PCT,8.4,stop
+196,Estonia,2007,Annual,PCT,7.6,stop
+197,Estonia,2008,Annual,PCT,6.2,stop
+198,Estonia,2009,Annual,PCT,7.6,stop
+199,Estonia,2010,Annual,PCT,8.2,stop
+200,Estonia,2011,Annual,PCT,7.0,stop
+201,Estonia,2012,Annual,PCT,6.0,stop
+202,Estonia,2013,Annual,PCT,5.6,stop
+203,Estonia,2014,Annual,PCT,5.3,stop
+206,Estonia,2015,Annual,PCT,4.5,stop
+204,Estonia,2016,Annual,PCT,5.0,stop
+207,Estonia,2017,Annual,PCT,4.7,stop
+205,Estonia,2018,Annual,PCT,5.9,stop
+208,Estonia,2019,Annual,PCT,6.0,stop
+209,Estonia,2020,Annual,PCT,6.0,stop
+210,Finland,2000,Annual,PCT,74.2,stop
+211,Finland,2001,Annual,PCT,76.6,stop
+212,Finland,2002,Annual,PCT,75.7,stop
+213,Finland,2003,Annual,PCT,74.5,stop
+214,Finland,2004,Annual,PCT,73.5,stop
+215,Finland,2005,Annual,PCT,72.7,stop
+216,Finland,2006,Annual,PCT,71.9,stop
+217,Finland,2007,Annual,PCT,71.1,stop
+218,Finland,2008,Annual,PCT,69.9,stop
+219,Finland,2009,Annual,PCT,72.5,stop
+220,Finland,2010,Annual,PCT,71.4,stop
+221,Finland,2011,Annual,PCT,69.6,stop
+222,Finland,2012,Annual,PCT,69.2,stop
+223,Finland,2013,Annual,PCT,67.5,stop
+224,Finland,2014,Annual,PCT,67.8,stop
+227,Finland,2015,Annual,PCT,67.5,stop
+225,Finland,2016,Annual,PCT,65.7,stop
+228,Finland,2017,Annual,PCT,62.9,stop
+226,Finland,2018,Annual,PCT,60.0,stop
+229,Finland,2019,Annual,PCT,58.8,stop
+230,Finland,2020,Annual,PCT,58.8,stop
+231,France,2000,Annual,PCT,10.8,stop
+232,France,2001,Annual,PCT,10.8,stop
+233,France,2002,Annual,PCT,10.8,stop
+234,France,2003,Annual,PCT,10.8,stop
+235,France,2004,Annual,PCT,10.5,stop
+236,France,2005,Annual,PCT,10.5,stop
+237,France,2006,Annual,PCT,10.5,stop
+238,France,2007,Annual,PCT,10.5,stop
+239,France,2008,Annual,PCT,10.6,stop
+240,France,2009,Annual,PCT,10.6,stop
+241,France,2010,Annual,PCT,10.8,stop
+242,France,2011,Annual,PCT,10.8,stop
+243,France,2012,Annual,PCT,10.8,stop
+244,France,2013,Annual,PCT,11.0,stop
+245,France,2014,Annual,PCT,11.0,stop
+248,France,2015,Annual,PCT,11.0,stop
+246,France,2016,Annual,PCT,10.8,stop
+249,France,2017,Annual,PCT,10.8,stop
+247,France,2018,Annual,PCT,10.8,stop
+250,France,2019,Annual,PCT,10.8,stop
+251,France,2020,Annual,PCT,10.8,stop
+252,Germany,2000,Annual,PCT,24.6,stop
+253,Germany,2001,Annual,PCT,23.7,stop
+254,Germany,2002,Annual,PCT,23.5,stop
+255,Germany,2003,Annual,PCT,23.0,stop
+256,Germany,2004,Annual,PCT,22.2,stop
+257,Germany,2005,Annual,PCT,21.5,stop
+258,Germany,2006,Annual,PCT,20.6,stop
+259,Germany,2007,Annual,PCT,19.8,stop
+260,Germany,2008,Annual,PCT,19.0,stop
+261,Germany,2009,Annual,PCT,18.8,stop
+262,Germany,2010,Annual,PCT,18.9,stop
+263,Germany,2011,Annual,PCT,18.4,stop
+264,Germany,2012,Annual,PCT,18.3,stop
+265,Germany,2013,Annual,PCT,18.0,stop
+266,Germany,2014,Annual,PCT,17.7,stop
+269,Germany,2015,Annual,PCT,17.6,stop
+267,Germany,2016,Annual,PCT,17.0,stop
+270,Germany,2017,Annual,PCT,16.7,stop
+268,Germany,2018,Annual,PCT,16.6,stop
+271,Germany,2019,Annual,PCT,16.3,stop
+272,Germany,2020,Annual,PCT,16.3,stop
+273,Greece,2000,,,24.9,stop
+274,Greece,2001,Annual,PCT,24.9,stop
+275,Greece,2002,Annual,PCT,24.9,stop
+276,Greece,2003,Annual,PCT,24.9,stop
+277,Greece,2004,Annual,PCT,24.1,stop
+278,Greece,2005,Annual,PCT,24.1,stop
+279,Greece,2006,Annual,PCT,24.1,stop
+280,Greece,2007,Annual,PCT,22.6,stop
+281,Greece,2008,Annual,PCT,22.6,stop
+282,Greece,2009,Annual,PCT,22.6,stop
+283,Greece,2010,Annual,PCT,22.2,stop
+284,Greece,2011,Annual,PCT,22.2,stop
+285,Greece,2012,Annual,PCT,22.2,stop
+286,Greece,2013,Annual,PCT,23.1,stop
+287,Greece,2014,Annual,PCT,23.1,stop
+290,Greece,2015,Annual,PCT,23.1,stop
+288,Greece,2016,Annual,PCT,19.0,stop
+291,Greece,2017,Annual,PCT,19.0,stop
+289,Greece,2018,Annual,PCT,19.0,stop
+292,Greece,2019,Annual,PCT,19.0,stop
+293,Greece,2020,Annual,PCT,19.0,stop
+294,Hungary,2000,Annual,PCT,23.8,stop
+295,Hungary,2001,Annual,PCT,20.4,stop
+296,Hungary,2002,Annual,PCT,20.4,stop
+297,Hungary,2003,Annual,PCT,18.9,stop
+298,Hungary,2004,Annual,PCT,17.9,stop
+299,Hungary,2005,Annual,PCT,17.3,stop
+300,Hungary,2006,Annual,PCT,17.3,stop
+301,Hungary,2007,Annual,PCT,17.3,stop
+302,Hungary,2008,Annual,PCT,15.3,stop
+303,Hungary,2009,Annual,PCT,15.3,stop
+304,Hungary,2010,Annual,PCT,15.3,stop
+305,Hungary,2011,Annual,PCT,15.3,stop
+306,Hungary,2012,Annual,PCT,12.5,stop
+307,Hungary,2013,Annual,PCT,12.5,stop
+308,Hungary,2014,Annual,PCT,11.0,stop
+311,Hungary,2015,Annual,PCT,11.0,stop
+309,Hungary,2016,Annual,PCT,9.2,stop
+312,Hungary,2017,Annual,PCT,9.2,stop
+310,Hungary,2018,Annual,PCT,8.3,stop
+313,Hungary,2019,Annual,PCT,8.3,stop
+314,Hungary,2020,Annual,PCT,8.3,stop
+315,Iceland,2000,Annual,PCT,89.1,stop
+316,Iceland,2001,Annual,PCT,88.9,stop
+317,Iceland,2002,Annual,PCT,93.3,stop
+318,Iceland,2003,Annual,PCT,86.5,stop
+319,Iceland,2004,Annual,PCT,84.1,stop
+320,Iceland,2005,Annual,PCT,84.1,stop
+321,Iceland,2006,Annual,PCT,85.2,stop
+322,Iceland,2007,Annual,PCT,84.9,stop
+323,Iceland,2008,Annual,PCT,84.7,stop
+324,Iceland,2009,Annual,PCT,84.9,stop
+325,Iceland,2010,Annual,PCT,85.2,stop
+326,Iceland,2011,Annual,PCT,85.0,stop
+327,Iceland,2012,Annual,PCT,85.3,stop
+328,Iceland,2013,Annual,PCT,88.9,stop
+329,Iceland,2014,Annual,PCT,90.4,stop
+332,Iceland,2015,Annual,PCT,91.6,stop
+330,Iceland,2016,Annual,PCT,90.4,stop
+333,Iceland,2017,Annual,PCT,91.0,stop
+331,Iceland,2018,Annual,PCT,90.7,stop
+334,Iceland,2019,Annual,PCT,90.7,stop
+335,Iceland,2020,Annual,PCT,92.2,stop
+336,Ireland,2000,Annual,PCT,35.9,stop
+337,Ireland,2001,Annual,PCT,35.0,stop
+338,Ireland,2002,Annual,PCT,35.1,stop
+339,Ireland,2003,Annual,PCT,34.9,stop
+340,Ireland,2004,Annual,PCT,33.6,stop
+341,Ireland,2005,Annual,PCT,32.4,stop
+342,Ireland,2006,Annual,PCT,31.7,stop
+343,Ireland,2007,Annual,PCT,30.5,stop
+344,Ireland,2008,Annual,PCT,30.9,stop
+345,Ireland,2009,Annual,PCT,31.9,stop
+346,Ireland,2010,Annual,PCT,31.6,stop
+347,Ireland,2011,Annual,PCT,31.6,stop
+348,Ireland,2012,Annual,PCT,30.1,stop
+349,Ireland,2013,Annual,PCT,28.5,stop
+350,Ireland,2014,Annual,PCT,26.3,stop
+353,Ireland,2015,Annual,PCT,25.4,stop
+351,Ireland,2016,Annual,PCT,23.4,stop
+354,Ireland,2017,Annual,PCT,24.3,stop
+352,Ireland,2018,Annual,PCT,24.1,stop
+355,Ireland,2019,Annual,PCT,25.1,stop
+356,Ireland,2020,Annual,PCT,26.2,stop
+357,Israel,2000,Annual,PCT,37.7,stop
+358,Israel,2001,Annual,PCT,37.7,stop
+359,Israel,2002,Annual,PCT,37.7,stop
+360,Israel,2003,Annual,PCT,37.7,stop
+361,Israel,2004,Annual,PCT,37.7,stop
+362,Israel,2005,Annual,PCT,37.7,stop
+363,Israel,2006,Annual,PCT,37.7,stop
+364,Israel,2007,Annual,PCT,30.3,stop
+365,Israel,2008,Annual,PCT,30.3,stop
+366,Israel,2009,Annual,PCT,30.3,stop
+367,Israel,2010,Annual,PCT,30.3,stop
+368,Israel,2011,Annual,PCT,30.3,stop
+369,Israel,2012,Annual,PCT,22.8,stop
+370,Israel,2013,Annual,PCT,22.8,stop
+371,Israel,2014,Annual,PCT,22.8,stop
+374,Israel,2015,Annual,PCT,22.8,stop
+372,Israel,2016,Annual,PCT,22.8,stop
+375,Israel,2017,Annual,PCT,25.0,stop
+373,Israel,2018,Annual,PCT,25.0,stop
+376,Israel,2019,Annual,PCT,25.0,stop
+377,Israel,2020,Annual,PCT,25.0,stop
+378,Italy,2000,Annual,PCT,34.8,stop
+379,Italy,2001,Annual,PCT,34.2,stop
+380,Italy,2002,Annual,PCT,33.7,stop
+381,Italy,2003,Annual,PCT,33.6,stop
+382,Italy,2004,Annual,PCT,34.0,stop
+383,Italy,2005,Annual,PCT,33.8,stop
+384,Italy,2006,Annual,PCT,33.6,stop
+385,Italy,2007,Annual,PCT,34.0,stop
+386,Italy,2008,Annual,PCT,33.9,stop
+387,Italy,2009,Annual,PCT,34.7,stop
+388,Italy,2010,Annual,PCT,35.3,stop
+389,Italy,2011,Annual,PCT,35.2,stop
+390,Italy,2012,Annual,PCT,35.5,stop
+391,Italy,2013,Annual,PCT,35.7,stop
+392,Italy,2014,Annual,PCT,35.4,stop
+395,Italy,2015,Annual,PCT,34.2,stop
+393,Italy,2016,Annual,PCT,33.6,stop
+396,Italy,2017,Annual,PCT,33.2,stop
+394,Italy,2018,Annual,PCT,32.6,stop
+397,Italy,2019,Annual,PCT,32.5,stop
+398,Italy,2020,Annual,PCT,32.5,stop
+399,Japan,2000,Annual,PCT,21.5,stop
+400,Japan,2001,Annual,PCT,20.9,stop
+401,Japan,2002,Annual,PCT,20.3,stop
+402,Japan,2003,Annual,PCT,19.7,stop
+403,Japan,2004,Annual,PCT,19.3,stop
+404,Japan,2005,Annual,PCT,18.8,stop
+405,Japan,2006,Annual,PCT,18.3,stop
+406,Japan,2007,Annual,PCT,18.3,stop
+407,Japan,2008,Annual,PCT,18.2,stop
+408,Japan,2009,Annual,PCT,18.5,stop
+409,Japan,2010,Annual,PCT,18.4,stop
+410,Japan,2011,Annual,PCT,19.0,stop
+411,Japan,2012,Annual,PCT,18.0,stop
+412,Japan,2013,Annual,PCT,17.8,stop
+413,Japan,2014,Annual,PCT,17.6,stop
+416,Japan,2015,Annual,PCT,17.5,stop
+414,Japan,2016,Annual,PCT,17.4,stop
+417,Japan,2017,Annual,PCT,17.2,stop
+415,Japan,2018,Annual,PCT,17.0,stop
+418,Japan,2019,Annual,PCT,16.8,stop
+419,Japan,2020,Annual,PCT,16.8,stop
+420,Korea,2000,Annual,PCT,11.4,stop
+421,Korea,2001,Annual,PCT,11.5,stop
+422,Korea,2002,Annual,PCT,11.3,stop
+423,Korea,2003,Annual,PCT,10.7,stop
+424,Korea,2004,Annual,PCT,10.3,stop
+425,Korea,2005,Annual,PCT,9.9,stop
+426,Korea,2006,Annual,PCT,10.0,stop
+427,Korea,2007,Annual,PCT,10.5,stop
+428,Korea,2008,Annual,PCT,10.2,stop
+429,Korea,2009,Annual,PCT,9.9,stop
+430,Korea,2010,Annual,PCT,9.6,stop
+431,Korea,2011,Annual,PCT,9.8,stop
+432,Korea,2012,Annual,PCT,9.9,stop
+433,Korea,2013,Annual,PCT,10.1,stop
+434,Korea,2014,Annual,PCT,10.1,stop
+437,Korea,2015,Annual,PCT,10.0,stop
+435,Korea,2016,Annual,PCT,10.0,stop
+438,Korea,2017,Annual,PCT,10.5,stop
+436,Korea,2018,Annual,PCT,11.6,stop
+439,Korea,2019,Annual,PCT,11.6,stop
+440,Korea,2020,Annual,PCT,11.6,stop
+441,Latvia,2000,,,21.0,stop
+442,Latvia,2001,,,21.0,stop
+443,Latvia,2002,,,21.0,stop
+444,Latvia,2003,Annual,PCT,21.0,stop
+445,Latvia,2004,Annual,PCT,21.0,stop
+446,Latvia,2005,Annual,PCT,21.0,stop
+447,Latvia,2006,Annual,PCT,18.0,stop
+448,Latvia,2007,Annual,PCT,16.7,stop
+449,Latvia,2008,Annual,PCT,15.2,stop
+450,Latvia,2009,Annual,PCT,15.2,stop
+451,Latvia,2010,Annual,PCT,15.1,stop
+452,Latvia,2011,Annual,PCT,13.7,stop
+453,Latvia,2012,Annual,PCT,13.2,stop
+454,Latvia,2013,Annual,PCT,12.9,stop
+455,Latvia,2014,Annual,PCT,12.8,stop
+458,Latvia,2015,Annual,PCT,12.7,stop
+456,Latvia,2016,Annual,PCT,12.4,stop
+459,Latvia,2017,Annual,PCT,12.3,stop
+457,Latvia,2018,Annual,PCT,11.6,stop
+460,Latvia,2019,Annual,PCT,11.6,stop
+461,Latvia,2020,Annual,PCT,11.6,stop
+462,Lithuania,2000,,,18.5,stop
+463,Lithuania,2001,Annual,PCT,18.5,stop
+464,Lithuania,2002,Annual,PCT,18.5,stop
+465,Lithuania,2003,Annual,PCT,12.2,stop
+466,Lithuania,2004,Annual,PCT,12.2,stop
+467,Lithuania,2005,Annual,PCT,12.2,stop
+468,Lithuania,2006,Annual,PCT,9.8,stop
+469,Lithuania,2007,Annual,PCT,9.3,stop
+470,Lithuania,2008,Annual,PCT,8.9,stop
+471,Lithuania,2009,Annual,PCT,10.0,stop
+472,Lithuania,2010,Annual,PCT,10.1,stop
+473,Lithuania,2011,Annual,PCT,9.7,stop
+474,Lithuania,2012,Annual,PCT,9.0,stop
+475,Lithuania,2013,Annual,PCT,8.4,stop
+476,Lithuania,2014,Annual,PCT,8.1,stop
+479,Lithuania,2015,Annual,PCT,7.9,stop
+477,Lithuania,2016,Annual,PCT,7.7,stop
+480,Lithuania,2017,Annual,PCT,7.7,stop
+478,Lithuania,2018,Annual,PCT,7.1,stop
+481,Lithuania,2019,Annual,PCT,7.4,stop
+482,Lithuania,2020,Annual,PCT,7.4,stop
+483,Luxembourg,2000,,,44.0,stop
+484,Luxembourg,2001,,,44.0,stop
+485,Luxembourg,2002,,,44.0,stop
+486,Luxembourg,2003,Annual,PCT,44.0,stop
+487,Luxembourg,2004,Annual,PCT,43.4,stop
+488,Luxembourg,2005,Annual,PCT,42.6,stop
+489,Luxembourg,2006,Annual,PCT,41.4,stop
+490,Luxembourg,2007,Annual,PCT,39.5,stop
+491,Luxembourg,2008,Annual,PCT,37.6,stop
+492,Luxembourg,2009,Annual,PCT,36.8,stop
+493,Luxembourg,2010,Annual,PCT,36.1,stop
+494,Luxembourg,2011,Annual,PCT,36.6,stop
+495,Luxembourg,2012,Annual,PCT,35.3,stop
+496,Luxembourg,2013,Annual,PCT,34.8,stop
+497,Luxembourg,2014,Annual,PCT,34.1,stop
+500,Luxembourg,2015,Annual,PCT,33.3,stop
+498,Luxembourg,2016,Annual,PCT,32.3,stop
+501,Luxembourg,2017,Annual,PCT,32.1,stop
+499,Luxembourg,2018,Annual,PCT,30.4,stop
+502,Luxembourg,2019,Annual,PCT,28.2,stop
+503,Luxembourg,2020,Annual,PCT,28.2,stop
+504,Mexico,2000,Annual,PCT,16.7,stop
+505,Mexico,2001,Annual,PCT,16.7,stop
+506,Mexico,2002,Annual,PCT,15.5,stop
+507,Mexico,2003,Annual,PCT,15.5,stop
+508,Mexico,2004,Annual,PCT,15.5,stop
+509,Mexico,2005,Annual,PCT,16.9,stop
+510,Mexico,2006,Annual,PCT,16.3,stop
+511,Mexico,2007,Annual,PCT,16.7,stop
+512,Mexico,2008,Annual,PCT,15.6,stop
+513,Mexico,2009,Annual,PCT,15.3,stop
+514,Mexico,2010,Annual,PCT,14.5,stop
+515,Mexico,2011,Annual,PCT,14.7,stop
+516,Mexico,2012,Annual,PCT,14.0,stop
+517,Mexico,2013,Annual,PCT,13.8,stop
+518,Mexico,2014,Annual,PCT,13.6,stop
+521,Mexico,2015,Annual,PCT,13.1,stop
+519,Mexico,2016,Annual,PCT,12.7,stop
+522,Mexico,2017,Annual,PCT,12.5,stop
+520,Mexico,2018,Annual,PCT,12.0,stop
+523,Mexico,2019,Annual,PCT,12.3,stop
+524,Mexico,2020,Annual,PCT,12.4,stop
+525,Netherlands,2000,Annual,PCT,22.3,stop
+526,Netherlands,2001,Annual,PCT,21.6,stop
+527,Netherlands,2002,Annual,PCT,21.4,stop
+528,Netherlands,2003,Annual,PCT,20.9,stop
+529,Netherlands,2004,Annual,PCT,21.3,stop
+530,Netherlands,2005,Annual,PCT,22.1,stop
+531,Netherlands,2006,Annual,PCT,21.4,stop
+532,Netherlands,2007,Annual,PCT,20.2,stop
+533,Netherlands,2008,Annual,PCT,20.0,stop
+534,Netherlands,2009,Annual,PCT,20.0,stop
+535,Netherlands,2010,Annual,PCT,19.5,stop
+536,Netherlands,2011,Annual,PCT,19.3,stop
+537,Netherlands,2012,Annual,PCT,18.8,stop
+538,Netherlands,2013,Annual,PCT,18.2,stop
+539,Netherlands,2014,Annual,PCT,18.1,stop
+542,Netherlands,2015,Annual,PCT,17.7,stop
+540,Netherlands,2016,Annual,PCT,17.3,stop
+543,Netherlands,2017,Annual,PCT,16.8,stop
+541,Netherlands,2018,Annual,PCT,16.5,stop
+544,Netherlands,2019,Annual,PCT,15.4,stop
+545,Netherlands,2020,Annual,PCT,15.4,stop
+546,New Zealand,2000,Annual,PCT,22.4,stop
+547,New Zealand,2001,Annual,PCT,22.3,stop
+548,New Zealand,2002,Annual,PCT,21.8,stop
+549,New Zealand,2003,Annual,PCT,21.7,stop
+550,New Zealand,2004,Annual,PCT,21.7,stop
+551,New Zealand,2005,Annual,PCT,22.3,stop
+552,New Zealand,2006,Annual,PCT,21.8,stop
+553,New Zealand,2007,Annual,PCT,20.8,stop
+554,New Zealand,2008,Annual,PCT,21.4,stop
+555,New Zealand,2009,Annual,PCT,21.5,stop
+556,New Zealand,2010,Annual,PCT,21.4,stop
+557,New Zealand,2011,Annual,PCT,20.5,stop
+558,New Zealand,2012,Annual,PCT,20.3,stop
+559,New Zealand,2013,Annual,PCT,19.5,stop
+560,New Zealand,2014,Annual,PCT,18.6,stop
+563,New Zealand,2015,Annual,PCT,17.9,stop
+561,New Zealand,2016,Annual,PCT,17.8,stop
+564,New Zealand,2017,Annual,PCT,17.5,stop
+562,New Zealand,2018,Annual,PCT,17.7,stop
+565,New Zealand,2019,Annual,PCT,17.7,stop
+566,New Zealand,2020,Annual,PCT,17.7,stop
+567,Norway,2000,Annual,PCT,53.6,stop
+568,Norway,2001,Annual,PCT,52.6,stop
+569,Norway,2002,Annual,PCT,52.8,stop
+570,Norway,2003,Annual,PCT,51.8,stop
+571,Norway,2004,Annual,PCT,51.6,stop
+572,Norway,2005,Annual,PCT,51.2,stop
+573,Norway,2006,Annual,PCT,51.1,stop
+574,Norway,2007,Annual,PCT,50.1,stop
+575,Norway,2008,Annual,PCT,49.8,stop
+576,Norway,2009,Annual,PCT,50.3,stop
+577,Norway,2010,Annual,PCT,50.5,stop
+578,Norway,2011,Annual,PCT,49.9,stop
+579,Norway,2012,Annual,PCT,49.9,stop
+580,Norway,2013,Annual,PCT,49.8,stop
+581,Norway,2014,Annual,PCT,50.1,stop
+584,Norway,2015,Annual,PCT,49.8,stop
+582,Norway,2016,Annual,PCT,50.0,stop
+585,Norway,2017,Annual,PCT,50.0,stop
+583,Norway,2018,Annual,PCT,49.9,stop
+586,Norway,2019,Annual,PCT,50.4,stop
+587,Norway,2020,Annual,PCT,50.4,stop
+588,OECD - Total,2000,Annual,PCT,20.9,stop
+589,OECD - Total,2001,Annual,PCT,20.3,stop
+590,OECD - Total,2002,Annual,PCT,20.0,stop
+591,OECD - Total,2003,Annual,PCT,19.7,stop
+592,OECD - Total,2004,Annual,PCT,19.3,stop
+593,OECD - Total,2005,Annual,PCT,19.0,stop
+594,OECD - Total,2006,Annual,PCT,18.3,stop
+595,OECD - Total,2007,Annual,PCT,18.2,stop
+596,OECD - Total,2008,Annual,PCT,18.0,stop
+597,OECD - Total,2009,Annual,PCT,18.1,stop
+598,OECD - Total,2010,Annual,PCT,17.8,stop
+599,OECD - Total,2011,Annual,PCT,17.7,stop
+600,OECD - Total,2012,Annual,PCT,17.3,stop
+601,OECD - Total,2013,Annual,PCT,17.1,stop
+602,OECD - Total,2014,Annual,PCT,16.8,stop
+605,OECD - Total,2015,Annual,PCT,16.5,stop
+603,OECD - Total,2016,Annual,PCT,16.2,stop
+606,OECD - Total,2017,Annual,PCT,16.0,stop
+604,OECD - Total,2018,Annual,PCT,15.9,stop
+607,OECD - Total,2019,Annual,PCT,15.8,stop
+608,OECD - Total,2020,Annual,PCT,15.8,stop
+609,Poland,2000,Annual,PCT,23.5,stop
+610,Poland,2001,Annual,PCT,22.3,stop
+611,Poland,2002,Annual,PCT,22.8,stop
+612,Poland,2003,Annual,PCT,22.9,stop
+613,Poland,2004,Annual,PCT,22.9,stop
+614,Poland,2005,Annual,PCT,23.8,stop
+615,Poland,2006,Annual,PCT,17.9,stop
+616,Poland,2007,Annual,PCT,16.7,stop
+617,Poland,2008,Annual,PCT,15.7,stop
+618,Poland,2009,Annual,PCT,15.4,stop
+619,Poland,2010,Annual,PCT,17.4,stop
+620,Poland,2011,Annual,PCT,17.3,stop
+621,Poland,2012,Annual,PCT,16.6,stop
+622,Poland,2013,Annual,PCT,16.6,stop
+623,Poland,2014,Annual,PCT,16.5,stop
+626,Poland,2015,Annual,PCT,16.5,stop
+624,Poland,2016,Annual,PCT,14.1,stop
+627,Poland,2017,Annual,PCT,13.4,stop
+625,Poland,2018,Annual,PCT,13.4,stop
+628,Poland,2019,Annual,PCT,13.4,stop
+629,Poland,2020,Annual,PCT,13.4,stop
+630,Portugal,2000,,,20.5,stop
+631,Portugal,2001,,,20.5,stop
+632,Portugal,2002,Annual,PCT,20.5,stop
+633,Portugal,2003,Annual,PCT,21.1,stop
+634,Portugal,2004,Annual,PCT,21.6,stop
+635,Portugal,2005,Annual,PCT,21.6,stop
+636,Portugal,2006,Annual,PCT,21.1,stop
+637,Portugal,2007,Annual,PCT,21.1,stop
+638,Portugal,2008,Annual,PCT,20.7,stop
+639,Portugal,2009,Annual,PCT,20.4,stop
+640,Portugal,2010,Annual,PCT,19.6,stop
+641,Portugal,2011,Annual,PCT,18.6,stop
+642,Portugal,2012,Annual,PCT,18.6,stop
+643,Portugal,2013,Annual,PCT,18.6,stop
+644,Portugal,2014,Annual,PCT,18.6,stop
+647,Portugal,2015,Annual,PCT,16.1,stop
+645,Portugal,2016,Annual,PCT,15.3,stop
+648,Portugal,2017,Annual,PCT,15.3,stop
+646,Portugal,2018,Annual,PCT,15.3,stop
+649,Portugal,2019,Annual,PCT,15.3,stop
+650,Portugal,2020,Annual,PCT,15.3,stop
+651,Slovak Republic,2000,Annual,PCT,34.2,stop
+652,Slovak Republic,2001,Annual,PCT,32.5,stop
+653,Slovak Republic,2002,Annual,PCT,30.1,stop
+654,Slovak Republic,2003,Annual,PCT,27.7,stop
+655,Slovak Republic,2004,Annual,PCT,25.4,stop
+656,Slovak Republic,2005,Annual,PCT,23.5,stop
+657,Slovak Republic,2006,Annual,PCT,20.6,stop
+658,Slovak Republic,2007,Annual,PCT,18.7,stop
+659,Slovak Republic,2008,Annual,PCT,16.8,stop
+660,Slovak Republic,2009,Annual,PCT,16.0,stop
+661,Slovak Republic,2010,Annual,PCT,16.4,stop
+662,Slovak Republic,2011,Annual,PCT,14.5,stop
+663,Slovak Republic,2012,Annual,PCT,14.5,stop
+664,Slovak Republic,2013,Annual,PCT,14.1,stop
+665,Slovak Republic,2014,Annual,PCT,13.4,stop
+668,Slovak Republic,2015,Annual,PCT,12.6,stop
+666,Slovak Republic,2016,Annual,PCT,11.8,stop
+669,Slovak Republic,2017,Annual,PCT,11.5,stop
+667,Slovak Republic,2018,Annual,PCT,11.3,stop
+670,Slovak Republic,2019,Annual,PCT,11.3,stop
+671,Slovak Republic,2020,Annual,PCT,11.3,stop
+672,Slovenia,2000,Annual,PCT,44.2,stop
+673,Slovenia,2001,Annual,PCT,43.3,stop
+674,Slovenia,2002,Annual,PCT,47.1,stop
+675,Slovenia,2003,Annual,PCT,45.3,stop
+676,Slovenia,2004,Annual,PCT,37.1,stop
+677,Slovenia,2005,Annual,PCT,37.5,stop
+678,Slovenia,2006,Annual,PCT,32.2,stop
+679,Slovenia,2007,Annual,PCT,30.6,stop
+680,Slovenia,2008,Annual,PCT,29.7,stop
+681,Slovenia,2009,Annual,PCT,40.4,stop
+682,Slovenia,2010,Annual,PCT,32.6,stop
+683,Slovenia,2011,Annual,PCT,36.7,stop
+684,Slovenia,2012,Annual,PCT,26.8,stop
+685,Slovenia,2013,Annual,PCT,26.2,stop
+686,Slovenia,2014,Annual,PCT,29.4,stop
+689,Slovenia,2015,Annual,PCT,23.8,stop
+687,Slovenia,2016,Annual,PCT,23.8,stop
+690,Slovenia,2017,Annual,PCT,23.8,stop
+688,Slovenia,2018,Annual,PCT,23.8,stop
+691,Slovenia,2019,Annual,PCT,23.8,stop
+692,Slovenia,2020,Annual,PCT,23.8,stop
+693,Spain,2000,Annual,PCT,17.5,stop
+694,Spain,2001,Annual,PCT,17.2,stop
+695,Spain,2002,Annual,PCT,16.8,stop
+696,Spain,2003,Annual,PCT,16.5,stop
+697,Spain,2004,Annual,PCT,16.0,stop
+698,Spain,2005,Annual,PCT,15.5,stop
+699,Spain,2006,Annual,PCT,15.6,stop
+700,Spain,2007,Annual,PCT,16.4,stop
+701,Spain,2008,Annual,PCT,17.4,stop
+702,Spain,2009,Annual,PCT,18.3,stop
+703,Spain,2010,Annual,PCT,18.2,stop
+704,Spain,2011,Annual,PCT,17.9,stop
+705,Spain,2012,Annual,PCT,17.8,stop
+706,Spain,2013,Annual,PCT,17.0,stop
+707,Spain,2014,Annual,PCT,15.8,stop
+710,Spain,2015,Annual,PCT,14.4,stop
+708,Spain,2016,Annual,PCT,13.9,stop
+711,Spain,2017,Annual,PCT,13.4,stop
+709,Spain,2018,Annual,PCT,13.0,stop
+712,Spain,2019,Annual,PCT,12.5,stop
+713,Spain,2020,Annual,PCT,12.5,stop
+714,Sweden,2000,Annual,PCT,81.0,stop
+715,Sweden,2001,Annual,PCT,78.7,stop
+716,Sweden,2002,Annual,PCT,78.0,stop
+717,Sweden,2003,Annual,PCT,77.2,stop
+718,Sweden,2004,Annual,PCT,76.4,stop
+719,Sweden,2005,Annual,PCT,75.7,stop
+720,Sweden,2006,Annual,PCT,74.3,stop
+721,Sweden,2007,Annual,PCT,70.8,stop
+722,Sweden,2008,Annual,PCT,68.3,stop
+723,Sweden,2009,Annual,PCT,68.4,stop
+724,Sweden,2010,Annual,PCT,68.2,stop
+725,Sweden,2011,Annual,PCT,67.5,stop
+726,Sweden,2012,Annual,PCT,67.5,stop
+727,Sweden,2013,Annual,PCT,67.7,stop
+728,Sweden,2014,Annual,PCT,67.3,stop
+731,Sweden,2015,Annual,PCT,67.0,stop
+729,Sweden,2016,Annual,PCT,66.7,stop
+732,Sweden,2017,Annual,PCT,66.1,stop
+730,Sweden,2018,Annual,PCT,65.5,stop
+733,Sweden,2019,Annual,PCT,65.2,stop
+734,Sweden,2020,Annual,PCT,65.2,stop
+735,Switzerland,2000,Annual,PCT,20.7,stop
+736,Switzerland,2001,Annual,PCT,20.2,stop
+737,Switzerland,2002,Annual,PCT,20.3,stop
+738,Switzerland,2003,Annual,PCT,20.4,stop
+739,Switzerland,2004,Annual,PCT,19.9,stop
+740,Switzerland,2005,Annual,PCT,19.8,stop
+741,Switzerland,2006,Annual,PCT,19.3,stop
+742,Switzerland,2007,Annual,PCT,18.9,stop
+743,Switzerland,2008,Annual,PCT,17.9,stop
+744,Switzerland,2009,Annual,PCT,17.7,stop
+745,Switzerland,2010,Annual,PCT,17.6,stop
+746,Switzerland,2011,Annual,PCT,17.0,stop
+747,Switzerland,2012,Annual,PCT,16.5,stop
+748,Switzerland,2013,Annual,PCT,16.6,stop
+749,Switzerland,2014,Annual,PCT,16.1,stop
+752,Switzerland,2015,Annual,PCT,15.7,stop
+750,Switzerland,2016,Annual,PCT,15.3,stop
+753,Switzerland,2017,Annual,PCT,14.9,stop
+751,Switzerland,2018,Annual,PCT,14.4,stop
+754,Switzerland,2019,Annual,PCT,14.4,stop
+755,Switzerland,2020,Annual,PCT,14.4,stop
+756,Türkiye,2000,Annual,PCT,12.5,stop
+757,Türkiye,2001,Annual,PCT,12.5,stop
+758,Türkiye,2002,Annual,PCT,11.9,stop
+759,Türkiye,2003,Annual,PCT,11.2,stop
+760,Türkiye,2004,Annual,PCT,10.5,stop
+761,Türkiye,2005,Annual,PCT,10.3,stop
+762,Türkiye,2006,Annual,PCT,9.4,stop
+763,Türkiye,2007,Annual,PCT,8.3,stop
+764,Türkiye,2008,Annual,PCT,7.3,stop
+765,Türkiye,2009,Annual,PCT,7.3,stop
+766,Türkiye,2010,Annual,PCT,7.3,stop
+767,Türkiye,2011,Annual,PCT,7.1,stop
+768,Türkiye,2012,Annual,PCT,6.3,stop
+769,Türkiye,2013,Annual,PCT,6.3,stop
+770,Türkiye,2014,Annual,PCT,6.9,stop
+773,Türkiye,2015,Annual,PCT,8.0,stop
+771,Türkiye,2016,Annual,PCT,8.2,stop
+774,Türkiye,2017,Annual,PCT,8.6,stop
+772,Türkiye,2018,Annual,PCT,9.2,stop
+775,Türkiye,2019,Annual,PCT,9.9,stop
+776,Türkiye,2020,Annual,PCT,9.9,stop
+777,United Kingdom,2000,Annual,PCT,29.8,stop
+778,United Kingdom,2001,Annual,PCT,29.3,stop
+779,United Kingdom,2002,Annual,PCT,28.8,stop
+780,United Kingdom,2003,Annual,PCT,29.3,stop
+781,United Kingdom,2004,Annual,PCT,28.8,stop
+782,United Kingdom,2005,Annual,PCT,28.6,stop
+783,United Kingdom,2006,Annual,PCT,28.3,stop
+784,United Kingdom,2007,Annual,PCT,28.0,stop
+785,United Kingdom,2008,Annual,PCT,27.5,stop
+786,United Kingdom,2009,Annual,PCT,27.4,stop
+787,United Kingdom,2010,Annual,PCT,26.6,stop
+788,United Kingdom,2011,Annual,PCT,26.0,stop
+789,United Kingdom,2012,Annual,PCT,26.1,stop
+790,United Kingdom,2013,Annual,PCT,25.6,stop
+791,United Kingdom,2014,Annual,PCT,25.0,stop
+794,United Kingdom,2015,Annual,PCT,24.7,stop
+792,United Kingdom,2016,Annual,PCT,23.6,stop
+795,United Kingdom,2017,Annual,PCT,23.3,stop
+793,United Kingdom,2018,Annual,PCT,23.4,stop
+796,United Kingdom,2019,Annual,PCT,23.5,stop
+797,United Kingdom,2020,Annual,PCT,23.5,stop
+798,United States,2000,Annual,PCT,12.9,stop
+799,United States,2001,Annual,PCT,12.9,stop
+800,United States,2002,Annual,PCT,12.8,stop
+801,United States,2003,Annual,PCT,12.4,stop
+802,United States,2004,Annual,PCT,12.0,stop
+803,United States,2005,Annual,PCT,12.0,stop
+804,United States,2006,Annual,PCT,11.5,stop
+805,United States,2007,Annual,PCT,11.6,stop
+806,United States,2008,Annual,PCT,11.9,stop
+807,United States,2009,Annual,PCT,11.8,stop
+808,United States,2010,Annual,PCT,11.4,stop
+809,United States,2011,Annual,PCT,11.3,stop
+810,United States,2012,Annual,PCT,10.8,stop
+811,United States,2013,Annual,PCT,10.8,stop
+812,United States,2014,Annual,PCT,10.7,stop
+815,United States,2015,Annual,PCT,10.6,stop
+813,United States,2016,Annual,PCT,10.3,stop
+816,United States,2017,Annual,PCT,10.3,stop
+814,United States,2018,Annual,PCT,10.1,stop
+817,United States,2019,Annual,PCT,9.9,stop
+818,United States,2020,Annual,PCT,10.3,stop
