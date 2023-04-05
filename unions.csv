@@ -1,0 +1,688 @@
+,Country,Frequency,MEAS,Time,Value
+0,Australia,Annual,PCT,2000,24.9
+1,Australia,Annual,PCT,2001,24.6
+2,Australia,Annual,PCT,2002,23.200001
+3,Australia,Annual,PCT,2003,23.200001
+4,Australia,Annual,PCT,2004,22.799999
+5,Australia,Annual,PCT,2005,22.5
+6,Australia,Annual,PCT,2006,20.4
+7,Australia,Annual,PCT,2007,18.799999
+8,Australia,Annual,PCT,2008,18.799999
+9,Australia,Annual,PCT,2009,19.6
+10,Australia,Annual,PCT,2010,18.4
+11,Australia,Annual,PCT,2011,18.4
+12,Australia,Annual,PCT,2012,18.200001
+13,Australia,Annual,PCT,2013,17.0
+14,Australia,Annual,PCT,2014,15.1
+15,Australia,Annual,PCT,2016,14.6
+16,Australia,Annual,PCT,2018,13.7
+17,Austria,Annual,PCT,2000,36.900002
+18,Austria,Annual,PCT,2001,36.200001
+19,Austria,Annual,PCT,2002,36.0
+20,Austria,Annual,PCT,2003,34.599998
+21,Austria,Annual,PCT,2004,34.799999
+22,Austria,Annual,PCT,2005,33.799999
+23,Austria,Annual,PCT,2006,31.6
+24,Austria,Annual,PCT,2007,30.4
+25,Austria,Annual,PCT,2008,29.6
+26,Austria,Annual,PCT,2009,29.299999
+27,Austria,Annual,PCT,2010,28.9
+28,Austria,Annual,PCT,2011,28.299999
+29,Austria,Annual,PCT,2012,28.0
+30,Austria,Annual,PCT,2013,27.799999
+31,Austria,Annual,PCT,2014,27.700001
+32,Austria,Annual,PCT,2015,27.4
+33,Austria,Annual,PCT,2016,26.9
+34,Austria,Annual,PCT,2017,26.700001
+35,Austria,Annual,PCT,2018,26.299999
+36,Austria,Annual,PCT,2019,26.299999
+37,Belgium,Annual,PCT,2000,56.599998
+38,Belgium,Annual,PCT,2001,57.599998
+39,Belgium,Annual,PCT,2002,56.900002
+40,Belgium,Annual,PCT,2003,55.400002
+41,Belgium,Annual,PCT,2004,55.299999
+42,Belgium,Annual,PCT,2005,54.900002
+43,Belgium,Annual,PCT,2006,53.799999
+44,Belgium,Annual,PCT,2007,53.599998
+45,Belgium,Annual,PCT,2008,53.400002
+46,Belgium,Annual,PCT,2009,53.799999
+47,Belgium,Annual,PCT,2010,53.0
+48,Belgium,Annual,PCT,2011,54.200001
+49,Belgium,Annual,PCT,2012,54.099998
+50,Belgium,Annual,PCT,2013,53.299999
+51,Belgium,Annual,PCT,2014,52.900002
+52,Belgium,Annual,PCT,2015,52.299999
+53,Belgium,Annual,PCT,2016,51.599998
+54,Belgium,Annual,PCT,2017,50.700001
+55,Belgium,Annual,PCT,2018,50.0
+56,Belgium,Annual,PCT,2019,49.099998
+57,Canada,Annual,PCT,2000,28.200001
+58,Canada,Annual,PCT,2001,28.4
+59,Canada,Annual,PCT,2002,28.299999
+60,Canada,Annual,PCT,2003,28.200001
+61,Canada,Annual,PCT,2004,27.799999
+62,Canada,Annual,PCT,2005,27.700001
+63,Canada,Annual,PCT,2006,27.4
+64,Canada,Annual,PCT,2007,27.299999
+65,Canada,Annual,PCT,2008,27.0
+66,Canada,Annual,PCT,2009,27.299999
+67,Canada,Annual,PCT,2010,27.200001
+68,Canada,Annual,PCT,2011,26.9
+69,Canada,Annual,PCT,2012,27.200001
+70,Canada,Annual,PCT,2013,27.1
+71,Canada,Annual,PCT,2014,26.4
+72,Canada,Annual,PCT,2015,26.5
+73,Canada,Annual,PCT,2016,26.299999
+74,Canada,Annual,PCT,2017,26.299999
+75,Canada,Annual,PCT,2018,25.9
+76,Canada,Annual,PCT,2019,26.1
+77,Canada,Annual,PCT,2020,27.200001
+78,Czech Republic,Annual,PCT,2000,27.200001
+79,Czech Republic,Annual,PCT,2001,23.799999
+80,Czech Republic,Annual,PCT,2002,22.4
+81,Czech Republic,Annual,PCT,2003,22.299999
+82,Czech Republic,Annual,PCT,2004,20.6
+83,Czech Republic,Annual,PCT,2005,19.1
+84,Czech Republic,Annual,PCT,2006,18.1
+85,Czech Republic,Annual,PCT,2007,17.4
+86,Czech Republic,Annual,PCT,2008,16.9
+87,Czech Republic,Annual,PCT,2009,16.700001
+88,Czech Republic,Annual,PCT,2010,16.1
+89,Czech Republic,Annual,PCT,2011,15.4
+90,Czech Republic,Annual,PCT,2012,14.8
+91,Czech Republic,Annual,PCT,2013,13.6
+92,Czech Republic,Annual,PCT,2014,12.9
+93,Czech Republic,Annual,PCT,2015,11.9
+94,Czech Republic,Annual,PCT,2016,11.9
+95,Czech Republic,Annual,PCT,2017,11.7
+96,Czech Republic,Annual,PCT,2018,11.4
+97,Denmark,Annual,PCT,2000,74.5
+98,Denmark,Annual,PCT,2001,73.900002
+99,Denmark,Annual,PCT,2002,73.599998
+100,Denmark,Annual,PCT,2003,72.400002
+101,Denmark,Annual,PCT,2004,71.699997
+102,Denmark,Annual,PCT,2005,71.5
+103,Denmark,Annual,PCT,2006,69.699997
+104,Denmark,Annual,PCT,2007,69.0
+105,Denmark,Annual,PCT,2008,68.800003
+106,Denmark,Annual,PCT,2009,68.900002
+107,Denmark,Annual,PCT,2010,68.099998
+108,Denmark,Annual,PCT,2011,68.699997
+109,Denmark,Annual,PCT,2012,69.0
+110,Denmark,Annual,PCT,2013,68.800003
+111,Denmark,Annual,PCT,2014,68.5
+112,Denmark,Annual,PCT,2015,68.199997
+113,Denmark,Annual,PCT,2016,67.400002
+114,Denmark,Annual,PCT,2017,66.699997
+115,Denmark,Annual,PCT,2018,67.5
+116,Denmark,Annual,PCT,2019,67.0
+117,Finland,Annual,PCT,2000,74.199997
+118,Finland,Annual,PCT,2001,76.599998
+119,Finland,Annual,PCT,2002,75.699997
+120,Finland,Annual,PCT,2003,74.5
+121,Finland,Annual,PCT,2004,73.5
+122,Finland,Annual,PCT,2005,72.699997
+123,Finland,Annual,PCT,2006,71.900002
+124,Finland,Annual,PCT,2007,71.099998
+125,Finland,Annual,PCT,2008,69.900002
+126,Finland,Annual,PCT,2009,72.5
+127,Finland,Annual,PCT,2010,71.400002
+128,Finland,Annual,PCT,2011,69.599998
+129,Finland,Annual,PCT,2012,69.199997
+130,Finland,Annual,PCT,2013,67.5
+131,Finland,Annual,PCT,2014,67.800003
+132,Finland,Annual,PCT,2015,67.5
+133,Finland,Annual,PCT,2016,65.699997
+134,Finland,Annual,PCT,2017,62.900002
+135,Finland,Annual,PCT,2018,60.0
+136,Finland,Annual,PCT,2019,58.799999
+137,France,Annual,PCT,2000,10.8
+138,France,Annual,PCT,2001,10.8
+139,France,Annual,PCT,2002,10.8
+140,France,Annual,PCT,2003,10.8
+141,France,Annual,PCT,2004,10.5
+142,France,Annual,PCT,2005,10.5
+143,France,Annual,PCT,2008,10.6
+144,France,Annual,PCT,2010,10.8
+145,France,Annual,PCT,2013,11.0
+146,France,Annual,PCT,2016,10.8
+147,Germany,Annual,PCT,2000,24.6
+148,Germany,Annual,PCT,2001,23.700001
+149,Germany,Annual,PCT,2002,23.5
+150,Germany,Annual,PCT,2003,23.0
+151,Germany,Annual,PCT,2004,22.200001
+152,Germany,Annual,PCT,2005,21.5
+153,Germany,Annual,PCT,2006,20.6
+154,Germany,Annual,PCT,2007,19.799999
+155,Germany,Annual,PCT,2008,19.0
+156,Germany,Annual,PCT,2009,18.799999
+157,Germany,Annual,PCT,2010,18.9
+158,Germany,Annual,PCT,2011,18.4
+159,Germany,Annual,PCT,2012,18.299999
+160,Germany,Annual,PCT,2013,18.0
+161,Germany,Annual,PCT,2014,17.700001
+162,Germany,Annual,PCT,2015,17.6
+163,Germany,Annual,PCT,2016,17.0
+164,Germany,Annual,PCT,2017,16.700001
+165,Germany,Annual,PCT,2018,16.6
+166,Germany,Annual,PCT,2019,16.299999
+167,Greece,Annual,PCT,2001,24.9
+168,Greece,Annual,PCT,2004,24.1
+169,Greece,Annual,PCT,2007,22.6
+170,Greece,Annual,PCT,2010,22.200001
+171,Greece,Annual,PCT,2013,23.1
+172,Greece,Annual,PCT,2016,19.0
+173,Hungary,Annual,PCT,2000,23.799999
+174,Hungary,Annual,PCT,2001,20.4
+175,Hungary,Annual,PCT,2003,18.9
+176,Hungary,Annual,PCT,2004,17.9
+177,Hungary,Annual,PCT,2005,17.299999
+178,Hungary,Annual,PCT,2008,15.3
+179,Hungary,Annual,PCT,2012,12.5
+180,Hungary,Annual,PCT,2014,11.0
+181,Hungary,Annual,PCT,2016,9.1999998
+182,Hungary,Annual,PCT,2018,8.3000002
+183,Iceland,Annual,PCT,2000,89.099998
+184,Iceland,Annual,PCT,2001,88.900002
+185,Iceland,Annual,PCT,2002,93.300003
+186,Iceland,Annual,PCT,2003,86.5
+187,Iceland,Annual,PCT,2004,84.099998
+188,Iceland,Annual,PCT,2005,84.099998
+189,Iceland,Annual,PCT,2006,85.199997
+190,Iceland,Annual,PCT,2007,84.900002
+191,Iceland,Annual,PCT,2008,84.699997
+192,Iceland,Annual,PCT,2009,84.900002
+193,Iceland,Annual,PCT,2010,85.199997
+194,Iceland,Annual,PCT,2011,85.0
+195,Iceland,Annual,PCT,2012,85.300003
+196,Iceland,Annual,PCT,2013,88.900002
+197,Iceland,Annual,PCT,2014,90.400002
+198,Iceland,Annual,PCT,2015,91.599998
+199,Iceland,Annual,PCT,2016,90.400002
+200,Iceland,Annual,PCT,2017,91.0
+201,Iceland,Annual,PCT,2018,90.699997
+202,Iceland,Annual,PCT,2019,90.699997
+203,Iceland,Annual,PCT,2020,92.199997
+204,Ireland,Annual,PCT,2000,35.900002
+205,Ireland,Annual,PCT,2001,35.0
+206,Ireland,Annual,PCT,2002,35.099998
+207,Ireland,Annual,PCT,2003,34.900002
+208,Ireland,Annual,PCT,2004,33.599998
+209,Ireland,Annual,PCT,2005,32.400002
+210,Ireland,Annual,PCT,2006,31.700001
+211,Ireland,Annual,PCT,2007,30.5
+212,Ireland,Annual,PCT,2008,30.9
+213,Ireland,Annual,PCT,2009,31.9
+214,Ireland,Annual,PCT,2010,31.6
+215,Ireland,Annual,PCT,2011,31.6
+216,Ireland,Annual,PCT,2012,30.1
+217,Ireland,Annual,PCT,2013,28.5
+218,Ireland,Annual,PCT,2014,26.299999
+219,Ireland,Annual,PCT,2015,25.4
+220,Ireland,Annual,PCT,2016,23.4
+221,Ireland,Annual,PCT,2017,24.299999
+222,Ireland,Annual,PCT,2018,24.1
+223,Ireland,Annual,PCT,2019,25.1
+224,Ireland,Annual,PCT,2020,26.200001
+225,Italy,Annual,PCT,2000,34.799999
+226,Italy,Annual,PCT,2001,34.200001
+227,Italy,Annual,PCT,2002,33.700001
+228,Italy,Annual,PCT,2003,33.599998
+229,Italy,Annual,PCT,2004,34.0
+230,Italy,Annual,PCT,2005,33.799999
+231,Italy,Annual,PCT,2006,33.599998
+232,Italy,Annual,PCT,2007,34.0
+233,Italy,Annual,PCT,2008,33.900002
+234,Italy,Annual,PCT,2009,34.700001
+235,Italy,Annual,PCT,2010,35.299999
+236,Italy,Annual,PCT,2011,35.200001
+237,Italy,Annual,PCT,2012,35.5
+238,Italy,Annual,PCT,2013,35.700001
+239,Italy,Annual,PCT,2014,35.400002
+240,Italy,Annual,PCT,2015,34.200001
+241,Italy,Annual,PCT,2016,33.599998
+242,Italy,Annual,PCT,2017,33.200001
+243,Italy,Annual,PCT,2018,32.599998
+244,Italy,Annual,PCT,2019,32.5
+245,Japan,Annual,PCT,2000,21.5
+246,Japan,Annual,PCT,2001,20.9
+247,Japan,Annual,PCT,2002,20.299999
+248,Japan,Annual,PCT,2003,19.700001
+249,Japan,Annual,PCT,2004,19.299999
+250,Japan,Annual,PCT,2005,18.799999
+251,Japan,Annual,PCT,2006,18.299999
+252,Japan,Annual,PCT,2007,18.299999
+253,Japan,Annual,PCT,2008,18.200001
+254,Japan,Annual,PCT,2009,18.5
+255,Japan,Annual,PCT,2010,18.4
+256,Japan,Annual,PCT,2011,19.0
+257,Japan,Annual,PCT,2012,18.0
+258,Japan,Annual,PCT,2013,17.799999
+259,Japan,Annual,PCT,2014,17.6
+260,Japan,Annual,PCT,2015,17.5
+261,Japan,Annual,PCT,2016,17.4
+262,Japan,Annual,PCT,2017,17.200001
+263,Japan,Annual,PCT,2018,17.0
+264,Japan,Annual,PCT,2019,16.799999
+265,Korea,Annual,PCT,2000,11.4
+266,Korea,Annual,PCT,2001,11.5
+267,Korea,Annual,PCT,2002,11.3
+268,Korea,Annual,PCT,2003,10.7
+269,Korea,Annual,PCT,2004,10.3
+270,Korea,Annual,PCT,2005,9.8999996
+271,Korea,Annual,PCT,2006,10.0
+272,Korea,Annual,PCT,2007,10.5
+273,Korea,Annual,PCT,2008,10.2
+274,Korea,Annual,PCT,2009,9.8999996
+275,Korea,Annual,PCT,2010,9.6000004
+276,Korea,Annual,PCT,2011,9.8000002
+277,Korea,Annual,PCT,2012,9.8999996
+278,Korea,Annual,PCT,2013,10.1
+279,Korea,Annual,PCT,2014,10.1
+280,Korea,Annual,PCT,2015,10.0
+281,Korea,Annual,PCT,2016,10.0
+282,Korea,Annual,PCT,2017,10.5
+283,Korea,Annual,PCT,2018,11.6
+284,Luxembourg,Annual,PCT,2003,44.0
+285,Luxembourg,Annual,PCT,2004,43.400002
+286,Luxembourg,Annual,PCT,2005,42.599998
+287,Luxembourg,Annual,PCT,2006,41.400002
+288,Luxembourg,Annual,PCT,2007,39.5
+289,Luxembourg,Annual,PCT,2008,37.599998
+290,Luxembourg,Annual,PCT,2009,36.799999
+291,Luxembourg,Annual,PCT,2010,36.099998
+292,Luxembourg,Annual,PCT,2011,36.599998
+293,Luxembourg,Annual,PCT,2012,35.299999
+294,Luxembourg,Annual,PCT,2013,34.799999
+295,Luxembourg,Annual,PCT,2014,34.099998
+296,Luxembourg,Annual,PCT,2015,33.299999
+297,Luxembourg,Annual,PCT,2016,32.299999
+298,Luxembourg,Annual,PCT,2017,32.099998
+299,Luxembourg,Annual,PCT,2018,30.4
+300,Luxembourg,Annual,PCT,2019,28.200001
+301,Mexico,Annual,PCT,2000,16.700001
+302,Mexico,Annual,PCT,2002,15.5
+303,Mexico,Annual,PCT,2005,16.9
+304,Mexico,Annual,PCT,2006,16.299999
+305,Mexico,Annual,PCT,2007,16.700001
+306,Mexico,Annual,PCT,2008,15.6
+307,Mexico,Annual,PCT,2009,15.3
+308,Mexico,Annual,PCT,2010,14.5
+309,Mexico,Annual,PCT,2011,14.7
+310,Mexico,Annual,PCT,2012,14.0
+311,Mexico,Annual,PCT,2013,13.8
+312,Mexico,Annual,PCT,2014,13.6
+313,Mexico,Annual,PCT,2015,13.1
+314,Mexico,Annual,PCT,2016,12.7
+315,Mexico,Annual,PCT,2017,12.5
+316,Mexico,Annual,PCT,2018,12.0
+317,Mexico,Annual,PCT,2019,12.3
+318,Mexico,Annual,PCT,2020,12.4
+319,Netherlands,Annual,PCT,2000,22.299999
+320,Netherlands,Annual,PCT,2001,21.6
+321,Netherlands,Annual,PCT,2002,21.4
+322,Netherlands,Annual,PCT,2003,20.9
+323,Netherlands,Annual,PCT,2004,21.299999
+324,Netherlands,Annual,PCT,2005,22.1
+325,Netherlands,Annual,PCT,2006,21.4
+326,Netherlands,Annual,PCT,2007,20.200001
+327,Netherlands,Annual,PCT,2008,20.0
+328,Netherlands,Annual,PCT,2009,20.0
+329,Netherlands,Annual,PCT,2010,19.5
+330,Netherlands,Annual,PCT,2011,19.299999
+331,Netherlands,Annual,PCT,2012,18.799999
+332,Netherlands,Annual,PCT,2013,18.200001
+333,Netherlands,Annual,PCT,2014,18.1
+334,Netherlands,Annual,PCT,2015,17.700001
+335,Netherlands,Annual,PCT,2016,17.299999
+336,Netherlands,Annual,PCT,2017,16.799999
+337,Netherlands,Annual,PCT,2018,16.5
+338,Netherlands,Annual,PCT,2019,15.4
+339,New Zealand,Annual,PCT,2000,22.4
+340,New Zealand,Annual,PCT,2001,22.299999
+341,New Zealand,Annual,PCT,2002,21.799999
+342,New Zealand,Annual,PCT,2003,21.700001
+343,New Zealand,Annual,PCT,2004,21.700001
+344,New Zealand,Annual,PCT,2005,22.299999
+345,New Zealand,Annual,PCT,2006,21.799999
+346,New Zealand,Annual,PCT,2007,20.799999
+347,New Zealand,Annual,PCT,2008,21.4
+348,New Zealand,Annual,PCT,2009,21.5
+349,New Zealand,Annual,PCT,2010,21.4
+350,New Zealand,Annual,PCT,2011,20.5
+351,New Zealand,Annual,PCT,2012,20.299999
+352,New Zealand,Annual,PCT,2013,19.5
+353,New Zealand,Annual,PCT,2014,18.6
+354,New Zealand,Annual,PCT,2015,17.9
+355,New Zealand,Annual,PCT,2016,17.799999
+356,New Zealand,Annual,PCT,2017,17.5
+357,New Zealand,Annual,PCT,2018,17.700001
+358,Norway,Annual,PCT,2000,53.599998
+359,Norway,Annual,PCT,2001,52.599998
+360,Norway,Annual,PCT,2002,52.799999
+361,Norway,Annual,PCT,2003,51.799999
+362,Norway,Annual,PCT,2004,51.599998
+363,Norway,Annual,PCT,2005,51.200001
+364,Norway,Annual,PCT,2006,51.099998
+365,Norway,Annual,PCT,2007,50.099998
+366,Norway,Annual,PCT,2008,49.799999
+367,Norway,Annual,PCT,2009,50.299999
+368,Norway,Annual,PCT,2010,50.5
+369,Norway,Annual,PCT,2011,49.900002
+370,Norway,Annual,PCT,2012,49.900002
+371,Norway,Annual,PCT,2013,49.799999
+372,Norway,Annual,PCT,2014,50.099998
+373,Norway,Annual,PCT,2015,49.799999
+374,Norway,Annual,PCT,2016,50.0
+375,Norway,Annual,PCT,2017,50.0
+376,Norway,Annual,PCT,2018,49.900002
+377,Norway,Annual,PCT,2019,50.400002
+378,Poland,Annual,PCT,2000,23.5
+379,Poland,Annual,PCT,2001,22.299999
+380,Poland,Annual,PCT,2002,22.799999
+381,Poland,Annual,PCT,2003,22.9
+382,Poland,Annual,PCT,2004,22.9
+383,Poland,Annual,PCT,2005,23.799999
+384,Poland,Annual,PCT,2006,17.9
+385,Poland,Annual,PCT,2007,16.700001
+386,Poland,Annual,PCT,2008,15.7
+387,Poland,Annual,PCT,2009,15.4
+388,Poland,Annual,PCT,2010,17.4
+389,Poland,Annual,PCT,2011,17.299999
+390,Poland,Annual,PCT,2012,16.6
+391,Poland,Annual,PCT,2014,16.5
+392,Poland,Annual,PCT,2016,14.1
+393,Poland,Annual,PCT,2017,13.4
+394,Portugal,Annual,PCT,2002,20.5
+395,Portugal,Annual,PCT,2003,21.1
+396,Portugal,Annual,PCT,2004,21.6
+397,Portugal,Annual,PCT,2006,21.1
+398,Portugal,Annual,PCT,2008,20.700001
+399,Portugal,Annual,PCT,2009,20.4
+400,Portugal,Annual,PCT,2010,19.6
+401,Portugal,Annual,PCT,2011,18.6
+402,Portugal,Annual,PCT,2015,16.1
+403,Portugal,Annual,PCT,2016,15.3
+404,Slovak Republic,Annual,PCT,2000,34.200001
+405,Slovak Republic,Annual,PCT,2001,32.5
+406,Slovak Republic,Annual,PCT,2002,30.1
+407,Slovak Republic,Annual,PCT,2003,27.700001
+408,Slovak Republic,Annual,PCT,2004,25.4
+409,Slovak Republic,Annual,PCT,2005,23.5
+410,Slovak Republic,Annual,PCT,2006,20.6
+411,Slovak Republic,Annual,PCT,2007,18.700001
+412,Slovak Republic,Annual,PCT,2008,16.799999
+413,Slovak Republic,Annual,PCT,2009,16.0
+414,Slovak Republic,Annual,PCT,2010,16.4
+415,Slovak Republic,Annual,PCT,2011,14.5
+416,Slovak Republic,Annual,PCT,2012,14.5
+417,Slovak Republic,Annual,PCT,2013,14.1
+418,Slovak Republic,Annual,PCT,2014,13.4
+419,Slovak Republic,Annual,PCT,2015,12.6
+420,Slovak Republic,Annual,PCT,2016,11.8
+421,Slovak Republic,Annual,PCT,2017,11.5
+422,Slovak Republic,Annual,PCT,2018,11.3
+423,Spain,Annual,PCT,2000,17.5
+424,Spain,Annual,PCT,2001,17.200001
+425,Spain,Annual,PCT,2002,16.799999
+426,Spain,Annual,PCT,2003,16.5
+427,Spain,Annual,PCT,2004,16.0
+428,Spain,Annual,PCT,2005,15.5
+429,Spain,Annual,PCT,2006,15.6
+430,Spain,Annual,PCT,2007,16.4
+431,Spain,Annual,PCT,2008,17.4
+432,Spain,Annual,PCT,2009,18.299999
+433,Spain,Annual,PCT,2010,18.200001
+434,Spain,Annual,PCT,2011,17.9
+435,Spain,Annual,PCT,2012,17.799999
+436,Spain,Annual,PCT,2013,17.0
+437,Spain,Annual,PCT,2014,15.8
+438,Spain,Annual,PCT,2015,14.4
+439,Spain,Annual,PCT,2016,13.9
+440,Spain,Annual,PCT,2017,13.4
+441,Spain,Annual,PCT,2018,13.0
+442,Spain,Annual,PCT,2019,12.5
+443,Sweden,Annual,PCT,2000,81.0
+444,Sweden,Annual,PCT,2001,78.699997
+445,Sweden,Annual,PCT,2002,78.0
+446,Sweden,Annual,PCT,2003,77.199997
+447,Sweden,Annual,PCT,2004,76.400002
+448,Sweden,Annual,PCT,2005,75.699997
+449,Sweden,Annual,PCT,2006,74.300003
+450,Sweden,Annual,PCT,2007,70.800003
+451,Sweden,Annual,PCT,2008,68.300003
+452,Sweden,Annual,PCT,2009,68.400002
+453,Sweden,Annual,PCT,2010,68.199997
+454,Sweden,Annual,PCT,2011,67.5
+455,Sweden,Annual,PCT,2012,67.5
+456,Sweden,Annual,PCT,2013,67.699997
+457,Sweden,Annual,PCT,2014,67.300003
+458,Sweden,Annual,PCT,2015,67.0
+459,Sweden,Annual,PCT,2016,66.699997
+460,Sweden,Annual,PCT,2017,66.099998
+461,Sweden,Annual,PCT,2018,65.5
+462,Sweden,Annual,PCT,2019,65.199997
+463,Switzerland,Annual,PCT,2000,20.700001
+464,Switzerland,Annual,PCT,2001,20.200001
+465,Switzerland,Annual,PCT,2002,20.299999
+466,Switzerland,Annual,PCT,2003,20.4
+467,Switzerland,Annual,PCT,2004,19.9
+468,Switzerland,Annual,PCT,2005,19.799999
+469,Switzerland,Annual,PCT,2006,19.299999
+470,Switzerland,Annual,PCT,2007,18.9
+471,Switzerland,Annual,PCT,2008,17.9
+472,Switzerland,Annual,PCT,2009,17.700001
+473,Switzerland,Annual,PCT,2010,17.6
+474,Switzerland,Annual,PCT,2011,17.0
+475,Switzerland,Annual,PCT,2012,16.5
+476,Switzerland,Annual,PCT,2013,16.6
+477,Switzerland,Annual,PCT,2014,16.1
+478,Switzerland,Annual,PCT,2015,15.7
+479,Switzerland,Annual,PCT,2016,15.3
+480,Switzerland,Annual,PCT,2017,14.9
+481,Switzerland,Annual,PCT,2018,14.4
+482,Türkiye,Annual,PCT,2000,12.5
+483,Türkiye,Annual,PCT,2001,12.5
+484,Türkiye,Annual,PCT,2002,11.9
+485,Türkiye,Annual,PCT,2003,11.2
+486,Türkiye,Annual,PCT,2004,10.5
+487,Türkiye,Annual,PCT,2005,10.3
+488,Türkiye,Annual,PCT,2006,9.3999996
+489,Türkiye,Annual,PCT,2007,8.3000002
+490,Türkiye,Annual,PCT,2008,7.3000002
+491,Türkiye,Annual,PCT,2009,7.3000002
+492,Türkiye,Annual,PCT,2010,7.3000002
+493,Türkiye,Annual,PCT,2011,7.0999999
+494,Türkiye,Annual,PCT,2012,6.3000002
+495,Türkiye,Annual,PCT,2013,6.3000002
+496,Türkiye,Annual,PCT,2014,6.9000001
+497,Türkiye,Annual,PCT,2015,8.0
+498,Türkiye,Annual,PCT,2016,8.1999998
+499,Türkiye,Annual,PCT,2017,8.6000004
+500,Türkiye,Annual,PCT,2018,9.1999998
+501,Türkiye,Annual,PCT,2019,9.8999996
+502,United Kingdom,Annual,PCT,2000,29.799999
+503,United Kingdom,Annual,PCT,2001,29.299999
+504,United Kingdom,Annual,PCT,2002,28.799999
+505,United Kingdom,Annual,PCT,2003,29.299999
+506,United Kingdom,Annual,PCT,2004,28.799999
+507,United Kingdom,Annual,PCT,2005,28.6
+508,United Kingdom,Annual,PCT,2006,28.299999
+509,United Kingdom,Annual,PCT,2007,28.0
+510,United Kingdom,Annual,PCT,2008,27.5
+511,United Kingdom,Annual,PCT,2009,27.4
+512,United Kingdom,Annual,PCT,2010,26.6
+513,United Kingdom,Annual,PCT,2011,26.0
+514,United Kingdom,Annual,PCT,2012,26.1
+515,United Kingdom,Annual,PCT,2013,25.6
+516,United Kingdom,Annual,PCT,2014,25.0
+517,United Kingdom,Annual,PCT,2015,24.700001
+518,United Kingdom,Annual,PCT,2016,23.6
+519,United Kingdom,Annual,PCT,2017,23.299999
+520,United Kingdom,Annual,PCT,2018,23.4
+521,United Kingdom,Annual,PCT,2019,23.5
+522,United States,Annual,PCT,2000,12.9
+523,United States,Annual,PCT,2001,12.9
+524,United States,Annual,PCT,2002,12.8
+525,United States,Annual,PCT,2003,12.4
+526,United States,Annual,PCT,2004,12.0
+527,United States,Annual,PCT,2005,12.0
+528,United States,Annual,PCT,2006,11.5
+529,United States,Annual,PCT,2007,11.6
+530,United States,Annual,PCT,2008,11.9
+531,United States,Annual,PCT,2009,11.8
+532,United States,Annual,PCT,2010,11.4
+533,United States,Annual,PCT,2011,11.3
+534,United States,Annual,PCT,2012,10.8
+535,United States,Annual,PCT,2013,10.8
+536,United States,Annual,PCT,2014,10.7
+537,United States,Annual,PCT,2015,10.6
+538,United States,Annual,PCT,2016,10.3
+539,United States,Annual,PCT,2017,10.3
+540,United States,Annual,PCT,2018,10.1
+541,United States,Annual,PCT,2019,9.8999996
+542,United States,Annual,PCT,2020,10.3
+543,OECD - Total,Annual,PCT,2000,20.9
+544,OECD - Total,Annual,PCT,2001,20.299999
+545,OECD - Total,Annual,PCT,2002,20.0
+546,OECD - Total,Annual,PCT,2003,19.700001
+547,OECD - Total,Annual,PCT,2004,19.299999
+548,OECD - Total,Annual,PCT,2005,19.0
+549,OECD - Total,Annual,PCT,2006,18.299999
+550,OECD - Total,Annual,PCT,2007,18.200001
+551,OECD - Total,Annual,PCT,2008,18.0
+552,OECD - Total,Annual,PCT,2009,18.1
+553,OECD - Total,Annual,PCT,2010,17.799999
+554,OECD - Total,Annual,PCT,2011,17.700001
+555,OECD - Total,Annual,PCT,2012,17.299999
+556,OECD - Total,Annual,PCT,2013,17.1
+557,OECD - Total,Annual,PCT,2014,16.799999
+558,OECD - Total,Annual,PCT,2015,16.5
+559,OECD - Total,Annual,PCT,2016,16.200001
+560,OECD - Total,Annual,PCT,2017,16.0
+561,OECD - Total,Annual,PCT,2018,15.9
+562,OECD - Total,Annual,PCT,2019,15.8
+563,Chile,Annual,PCT,2000,11.2
+564,Chile,Annual,PCT,2001,10.9
+565,Chile,Annual,PCT,2002,11.1
+566,Chile,Annual,PCT,2003,11.7
+567,Chile,Annual,PCT,2004,11.5
+568,Chile,Annual,PCT,2005,11.1
+569,Chile,Annual,PCT,2006,11.2
+570,Chile,Annual,PCT,2007,11.5
+571,Chile,Annual,PCT,2008,12.9
+572,Chile,Annual,PCT,2009,13.7
+573,Chile,Annual,PCT,2010,13.9
+574,Chile,Annual,PCT,2011,13.8
+575,Chile,Annual,PCT,2012,14.4
+576,Chile,Annual,PCT,2013,14.1
+577,Chile,Annual,PCT,2014,14.6
+578,Chile,Annual,PCT,2015,15.3
+579,Chile,Annual,PCT,2016,16.9
+580,Chile,Annual,PCT,2017,17.0
+581,Chile,Annual,PCT,2018,16.6
+582,Colombia,Annual,PCT,2000,12.3
+583,Colombia,Annual,PCT,2002,10.9
+584,Colombia,Annual,PCT,2004,10.5
+585,Colombia,Annual,PCT,2005,9.6000004
+586,Colombia,Annual,PCT,2006,9.6000004
+587,Colombia,Annual,PCT,2008,9.6000004
+588,Colombia,Annual,PCT,2009,9.3999996
+589,Colombia,Annual,PCT,2010,9.1999998
+590,Colombia,Annual,PCT,2011,9.1000004
+591,Colombia,Annual,PCT,2012,9.1000004
+592,Colombia,Annual,PCT,2013,9.6999998
+593,Colombia,Annual,PCT,2014,9.6000004
+594,Colombia,Annual,PCT,2015,9.3999996
+595,Colombia,Annual,PCT,2016,9.5
+596,Colombia,Annual,PCT,2017,9.5
+597,Costa Rica,Annual,PCT,2000,14.3
+598,Costa Rica,Annual,PCT,2001,13.5
+599,Costa Rica,Annual,PCT,2002,14.3
+600,Costa Rica,Annual,PCT,2003,14.5
+601,Costa Rica,Annual,PCT,2004,13.9
+602,Costa Rica,Annual,PCT,2005,13.3
+603,Costa Rica,Annual,PCT,2006,12.9
+604,Costa Rica,Annual,PCT,2007,11.5
+605,Costa Rica,Annual,PCT,2008,12.0
+606,Costa Rica,Annual,PCT,2009,13.0
+607,Costa Rica,Annual,PCT,2010,12.9
+608,Costa Rica,Annual,PCT,2011,13.4
+609,Costa Rica,Annual,PCT,2012,13.1
+610,Costa Rica,Annual,PCT,2013,13.7
+611,Costa Rica,Annual,PCT,2014,12.4
+612,Costa Rica,Annual,PCT,2015,18.6
+613,Costa Rica,Annual,PCT,2016,19.299999
+614,Costa Rica,Annual,PCT,2017,19.299999
+615,Costa Rica,Annual,PCT,2018,19.4
+616,Costa Rica,Annual,PCT,2019,20.5
+617,Estonia,Annual,PCT,2000,14.0
+618,Estonia,Annual,PCT,2001,14.0
+619,Estonia,Annual,PCT,2002,12.6
+620,Estonia,Annual,PCT,2003,11.0
+621,Estonia,Annual,PCT,2004,9.3999996
+622,Estonia,Annual,PCT,2005,8.6999998
+623,Estonia,Annual,PCT,2006,8.3999996
+624,Estonia,Annual,PCT,2007,7.5999999
+625,Estonia,Annual,PCT,2008,6.1999998
+626,Estonia,Annual,PCT,2009,7.5999999
+627,Estonia,Annual,PCT,2010,8.1999998
+628,Estonia,Annual,PCT,2011,7.0
+629,Estonia,Annual,PCT,2012,6.0
+630,Estonia,Annual,PCT,2013,5.5999999
+631,Estonia,Annual,PCT,2014,5.3000002
+632,Estonia,Annual,PCT,2015,4.5
+633,Estonia,Annual,PCT,2016,5.0
+634,Estonia,Annual,PCT,2017,4.6999998
+635,Estonia,Annual,PCT,2018,5.9000001
+636,Estonia,Annual,PCT,2019,6.0
+637,Israel,Annual,PCT,2000,37.700001
+638,Israel,Annual,PCT,2007,30.299999
+639,Israel,Annual,PCT,2012,22.799999
+640,Israel,Annual,PCT,2017,25.0
+641,Latvia,Annual,PCT,2003,21.0
+642,Latvia,Annual,PCT,2006,18.0
+643,Latvia,Annual,PCT,2007,16.700001
+644,Latvia,Annual,PCT,2008,15.2
+645,Latvia,Annual,PCT,2009,15.2
+646,Latvia,Annual,PCT,2010,15.1
+647,Latvia,Annual,PCT,2011,13.7
+648,Latvia,Annual,PCT,2012,13.2
+649,Latvia,Annual,PCT,2013,12.9
+650,Latvia,Annual,PCT,2014,12.8
+651,Latvia,Annual,PCT,2015,12.7
+652,Latvia,Annual,PCT,2016,12.4
+653,Latvia,Annual,PCT,2017,12.3
+654,Latvia,Annual,PCT,2018,11.6
+655,Lithuania,Annual,PCT,2001,18.5
+656,Lithuania,Annual,PCT,2003,12.2
+657,Lithuania,Annual,PCT,2006,9.8000002
+658,Lithuania,Annual,PCT,2007,9.3000002
+659,Lithuania,Annual,PCT,2008,8.8999996
+660,Lithuania,Annual,PCT,2009,10.0
+661,Lithuania,Annual,PCT,2010,10.1
+662,Lithuania,Annual,PCT,2011,9.6999998
+663,Lithuania,Annual,PCT,2012,9.0
+664,Lithuania,Annual,PCT,2013,8.3999996
+665,Lithuania,Annual,PCT,2014,8.1000004
+666,Lithuania,Annual,PCT,2015,7.9000001
+667,Lithuania,Annual,PCT,2016,7.6999998
+668,Lithuania,Annual,PCT,2017,7.6999998
+669,Lithuania,Annual,PCT,2018,7.0999999
+670,Lithuania,Annual,PCT,2019,7.4000001
+671,Slovenia,Annual,PCT,2000,44.200001
+672,Slovenia,Annual,PCT,2001,43.299999
+673,Slovenia,Annual,PCT,2002,47.099998
+674,Slovenia,Annual,PCT,2003,45.299999
+675,Slovenia,Annual,PCT,2004,37.099998
+676,Slovenia,Annual,PCT,2005,37.5
+677,Slovenia,Annual,PCT,2006,32.200001
+678,Slovenia,Annual,PCT,2007,30.6
+679,Slovenia,Annual,PCT,2008,29.700001
+680,Slovenia,Annual,PCT,2009,40.400002
+681,Slovenia,Annual,PCT,2010,32.599998
+682,Slovenia,Annual,PCT,2011,36.700001
+683,Slovenia,Annual,PCT,2012,26.799999
+684,Slovenia,Annual,PCT,2013,26.200001
+685,Slovenia,Annual,PCT,2014,29.4
+686,Slovenia,Annual,PCT,2015,23.799999
