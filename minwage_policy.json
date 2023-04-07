@@ -1,0 +1,86 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/min_wagev2.csv"
+    },
+    "title": {
+      "text": [
+        "The distortionary costs of raising the federal minimum wage to $9 per hour", "and indexing it to inflation are sufficiently small compared with the benefits to","low-skilled workers who can find employment that this would be a desirable policy."
+      ],
+      "subtitle": "Source: IGN",
+      "fontSize": 12,
+      "anchor": "start"
+    },
+    "width": 350,
+    "height": 300,
+    "mark": {"type": "bar", "width": {"band": 0.8}},
+    "params": [
+      {
+        "name": "hover",
+        "select": {
+          "type": "point",
+          "fields": ["Uni"],
+          "toggle": true,
+          "on": "mouseover"
+        }
+      }
+    ],
+    "encoding": {
+      "x": {
+        "field": "Inflation Indexing Confidence Numeric",
+        "type": "ordinal",
+        "axis": {
+          "labelExpr": "{'0': 'Uncertain', '1': 'Strongly Disagree', '2': 'Disagree', '3': 'Agree', '4': 'Strongly Agree'}[datum.label]",
+          "labelAngle": 0
+        },
+        "scale": {"paddingOuter": 0.2},
+        "title": "Response"
+      },
+      "y": {
+        "field": "uni_policy_pct",
+        "aggregate": "ci0",
+        "axis": {"format": "%"},
+        "title": "Portion of Response"
+      },
+      "color": {
+        "field": "Uni",
+        "legend": {"title": "University"},
+        "scale": {
+          "domain": [
+            "Berkeley",
+            "Chicago",
+            "Chicago Booth",
+            "Columbia University",
+            "Harvard",
+            "MIT",
+            "Northwestern",
+            "Princeton",
+            "Stanford",
+            "Yale",
+            "University of Chicago"
+          ],
+          "range": [
+            "#041E42",
+            "#D4606C",
+            "#000000",
+            "#9BCBEB",
+            "#FC0B46",
+            "#999698",
+            "#4E2A84",
+            "#f58025",
+            "#FF1434",
+            "#00356B",
+            "#880000"
+          ]
+        }
+      },
+      "opacity": {
+        "condition": {"test": {"param": "hover"}, "value": 1},
+        "value": 0.5
+      },
+      "tooltip": [
+        {"field": "Uni", "title": "University"},
+        {"field": "uni_policy_pct", "format": "%"}
+      ]
+    }
+  }

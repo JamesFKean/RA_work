@@ -1,0 +1,58 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/unionsv4.csv"
+  },
+  "title": {"text": "Unionisation Rate for the OECD from 2000-2020",
+  "subtitle": ["Top 5 most and least unionised countries in the OECD, plus US and UK.", "Sorted by average unionisation rate over 2000-2020.", "Source: OECD"],
+  "anchor": "start"},
+  "height": 350,
+  "width": 350,
+  "transform": [{"filter": "datum.Time == yearSelector"}],
+  "params": [
+    {
+      "name": "yearSelector",
+      "value": 2000,
+      "bind": {
+        "input": "range",
+        "min": 2000,
+        "max": 2020,
+        "step": 1,
+        "name": "Year:"
+      }
+    }
+  ],
+  "mark": {"type": "bar"},
+  "encoding": {
+    "x": {
+      "field": "Country",
+      "sort": {"field": "rank", "order": "descending"},
+      "type": "ordinal"
+    },
+    "y": {"field": "Value", "aggregate": "sum", "scale": {"domain": [0, 100]},
+    "title": "% Of Work Force In Labour Union"},
+    "color": {
+      "field": "Country",
+      "scale": {
+        "domain": [
+          "Colombia",
+          "Denmark",
+          "Iceland",
+          "Korea",
+          "OECD - Total",
+          "Sweden",
+          "Türkiye",
+          "United Kingdom",
+          "United States",
+          "Finland",
+          "Lithuania",
+          "Norway",
+          "France"
+        ],
+        "range": ["darkred"]
+      },
+      "legend": null
+    },
+    "tooltip": [{"field": "Value", "title": "% of labour force unionised"}, {"field": "Time", "title": "Year"}, {"field": "Country"}]
+  }
+}
