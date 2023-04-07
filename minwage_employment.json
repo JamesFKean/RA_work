@@ -1,58 +1,82 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/unionsv4.csv"
+    "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/min_wagev2.csv"
   },
-  "title": {"text": "Unionisation Rate for the OECD from 2000-2020",
-  "subtitle": ["Top 5 most and least unionised countries in the OECD, plus US and UK.", "Sorted by average unionisation rate over 2000-2020.", "Source: OECD"],
-  "anchor": "start"},
-  "height": 350,
+  "title": {
+    "text": ["Raising the federal minimum wage to $9 per hour would make it noticeably", "harder for low-skilled workers to find employment."],
+    "fontSize": 12,
+    "anchor": "start",
+    "subtitle": "Source: IGN"
+  },
   "width": 350,
-  "transform": [{"filter": "datum.Time == yearSelector"}],
+  "height": 300,
+  "mark": {"type": "bar", "width": {"band": 0.8}},
   "params": [
-    {
-      "name": "yearSelector",
-      "value": 2000,
-      "bind": {
-        "input": "range",
-        "min": 2000,
-        "max": 2020,
-        "step": 1,
-        "name": "Year:"
-      }
-    }
-  ],
-  "mark": {"type": "bar"},
+      {
+                "name": "hover",
+                "select": {
+                  "type": "point",
+                  "fields": ["Uni"],
+                  "toggle": true,
+                  "on": "mouseover"
+                }
+    }],
   "encoding": {
     "x": {
-      "field": "Country",
-      "sort": {"field": "rank", "order": "descending"},
-      "type": "ordinal"
+      "field": "Confidence Numeric",
+      "type": "ordinal",
+      "axis": {
+        "labelExpr": "{'0': 'Uncertain', '1': 'Disagree', '2': 'Agree'}[datum.label]",
+        "labelAngle": 0
+      },
+      "scale": {"paddingOuter": 0.6},
+      "title": "Response"
     },
-    "y": {"field": "Value", "aggregate": "sum", "scale": {"domain": [0, 100]},
-    "title": "% Of Work Force In Labour Union"},
+    "y": {
+      "field": "uni_employment_pct",
+      "aggregate": "ci0",
+      "axis": {"format": "%"},
+      "title": "Portion of Response"
+    },
     "color": {
-      "field": "Country",
+      "field": "Uni",
+      "legend": {"title": "University"},
       "scale": {
         "domain": [
-          "Colombia",
-          "Denmark",
-          "Iceland",
-          "Korea",
-          "OECD - Total",
-          "Sweden",
-          "Türkiye",
-          "United Kingdom",
-          "United States",
-          "Finland",
-          "Lithuania",
-          "Norway",
-          "France"
+          "Berkeley",
+          "Chicago",
+          "Chicago Booth",
+          "Columbia University",
+          "Harvard",
+          "MIT",
+          "Northwestern",
+          "Princeton",
+          "Stanford",
+          "Yale",
+          "University of Chicago"
         ],
-        "range": ["darkred"]
-      },
-      "legend": null
+        "range": [
+          "#041E42",
+          "#D4606C",
+          "#000000",
+          "#9BCBEB",
+          "#FC0B46",
+          "#999698",
+          "#4E2A84",
+          "#f58025",
+          "#FF1434",
+          "#00356B",
+          "#880000"
+        ]
+      }
     },
-    "tooltip": [{"field": "Value", "title": "% of labour force unionised"}, {"field": "Time", "title": "Year"}, {"field": "Country"}]
+    "opacity": {"condition": {"test": {"param": "hover"}, "value": 1},
+                "value": 0.5
+              },
+    "tooltip": [
+      {"field": "Uni", "title": "University"},
+      {"field": "uni_employment_pct", "format": "%"}
+    ]
   }
 }
