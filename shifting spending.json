@@ -5,12 +5,11 @@
   "data": {
     "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/formatted%20chart%202%20data%20v1.csv"
   },
-  "title": {"text": "US Budget", "subtitle": "Source: OCB", "anchor": "start"},
+  "title": {"text": "US Budget Growth", "subtitle": "Source: OCB", "anchor": "start"},
+  
+
   "layer": [
-    {
-      "params": [
-        {"name": "highlight", "select": {"type": "point", "on": "mouseover"}}
-      ],
+    {"params": [{"name": "highlight", "select": {"type": "point", "on": "mouseover"}}],
       "mark": "area",
       "encoding": {
         "x": {
@@ -29,30 +28,17 @@
           "field": "Type",
           "scale": {"range": ["#880000", "#000", "#c72e2e"]}
         },
-        "opacity": {
-          "condition": {"test": {"param": "highlight"}, "value": 1},
-          "value": 0.1
-        },
-        "tooltip": [
-          {"field": "Values", "type": "quantitative", "title": "% of GDP"},
-          {"field": "Type", "title": "Spending Type"}
-        ]
+        "opacity": {"condition": {"test": {"param": "highlight"}, "value": 0.8}, "value": 0.4},
+        "tooltip": [{"field": "Values", "type": "quantitative", "title": "% of GDP"}, {"field": "Type", "title": "Spending Type"}]
       }
     },
     {
       "mark": {"type": "line"},
       "encoding": {
-        "x": {
-          "field": "Year",
-          "type": "temporal",
-          "axis": {"gridOpacity": 0.2}
-        },
+        "x": {"field": "Year", "type": "temporal", "axis": {"gridOpacity": 0.2}},
         "y": {"field": "Values", "type": "quantitative", "stack": "zero"},
-        "color": {
-          "field": "Type",
-          "scale": {"range": ["#880000", "#000", "#c72e2e"]},
-          "legend": {"title": ""}
-        }
+        "color": {"field": "Type",
+          "scale": {"range": ["#880000", "#000", "#c72e2e"]}, "legend": {"title": ""}}, 
       }
     }
   ]
