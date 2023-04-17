@@ -1,0 +1,68 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "hconcat": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/Taxrevenuesv2.csv"
+      },
+      "width": 300,
+      "height": 200,
+      "title": {
+        "text": "Tax Revenues by type for the City of Chicago",
+        "anchor": "start",
+        "subtitle": "Source: Chicago.gov"
+      },
+      "mark": "bar",
+      "encoding": {
+        "x": {
+          "field": "State and Local Taxes",
+          "sort": {"field": "Revenues", "order": "descending"},
+          "title": "",
+          "axis": {"gridOpacity": 0.5, "labelFontSize": 11, "labelFontWeight": "bold"}
+        },
+        "y": {
+          "field": "Revenues",
+          "type": "quantitative",
+          "title": "Revenue in Millions",
+          "axis": {"gridOpacity": 0.4}
+        },
+        "color": {"value": "#880000"},
+        "tooltip": [
+          {"field": "Revenues", "title": "Revenues in Millions"},
+          {"field": "State and Local Taxes", "title": "Tax type"}
+        ]
+      }
+    },
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/Taxratesv1.csv"
+      },
+      "title": {
+        "text": "State Tax Rates",
+        "anchor": "start",
+        "subtitle": "Source: Taxfoundation"
+      },
+      "width": 150,
+      "height": 200,
+      "mark": "bar",
+      "encoding": {
+        "x": {"field": "State Taxes", "title": "",
+        "sort": {"field": "Rate", "order":"descending"},
+        "axis": {"labelFontSize": 11, "labelFontWeight": "bold"}},
+        "y": {
+          "field": "Rate",
+          "type": "quantitative",
+          "axis": {"format": "%", "gridOpacity": 0.4},
+          "title": "Tax Rate",
+          
+          
+        },
+        "color": {"value": "#880000"},
+        "tooltip": [
+          {"field": "Rate", "title": "Tax Rate", "format": "%"},
+          {"field": "State Taxes", "title": "Tax type"}
+        ]
+      }
+    }
+  ]
+}
