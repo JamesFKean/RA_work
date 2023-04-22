@@ -6,7 +6,7 @@
     "height": 300,
     "width": 350,
     "title": {
-      "text": "% of GDP from Trade in the 21 Most Populous Countries",
+      "text": "Trade as % of GDP for the 21 Most Populous Countries",
       "anchor": "start",
       "subtitle": ["Sorted by smallest to largest values in 2021","Source: World Bank"]
     },
