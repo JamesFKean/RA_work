@@ -1,0 +1,261 @@
+,Country Name,Year,GDP
+50,Ireland,1970,0.74
+51,"Hong Kong SAR, China",1970,1.79
+52,Luxembourg,1970,1.61
+53,Singapore,1970,2.71
+54,Malta,1970,1.16
+55,Ireland,1971,0.72
+56,"Hong Kong SAR, China",1971,1.75
+57,Luxembourg,1971,1.68
+58,Singapore,1971,2.59
+59,Malta,1971,1.14
+60,Ireland,1972,0.68
+61,"Hong Kong SAR, China",1972,1.61
+62,Luxembourg,1972,1.56
+63,Singapore,1972,2.29
+64,Malta,1972,1.14
+65,Ireland,1973,0.75
+66,"Hong Kong SAR, China",1973,1.65
+67,Luxembourg,1973,1.62
+68,Singapore,1973,2.46
+69,Malta,1973,1.34
+70,Ireland,1974,0.91
+71,"Hong Kong SAR, China",1974,1.68
+72,Luxembourg,1974,1.8
+73,Singapore,1974,3.14
+74,Malta,1974,1.76
+75,Ireland,1975,0.83
+76,"Hong Kong SAR, China",1975,1.61
+77,Luxembourg,1975,1.76
+78,Singapore,1975,2.84
+79,Malta,1975,1.6
+80,Ireland,1976,0.91
+81,"Hong Kong SAR, China",1976,1.68
+82,Luxembourg,1976,1.66
+83,Singapore,1976,3.06
+84,Malta,1976,1.62
+85,Ireland,1977,0.98
+86,"Hong Kong SAR, China",1977,1.6
+87,Luxembourg,1977,1.65
+88,Singapore,1977,3.27
+89,Malta,1977,1.67
+90,Ireland,1978,1.0
+91,"Hong Kong SAR, China",1978,1.7
+92,Luxembourg,1978,1.62
+93,Singapore,1978,3.35
+94,Malta,1978,1.54
+95,Ireland,1979,1.05
+96,"Hong Kong SAR, China",1979,1.78
+97,Luxembourg,1979,1.73
+98,Singapore,1979,3.75
+99,Malta,1979,1.64
+100,Ireland,1980,1.02
+101,"Hong Kong SAR, China",1980,1.78
+102,Luxembourg,1980,1.73
+103,Singapore,1980,4.11
+104,Malta,1980,1.67
+105,Ireland,1981,1.01
+106,"Hong Kong SAR, China",1981,1.83
+107,Luxembourg,1981,1.72
+108,Singapore,1981,4.0
+109,Malta,1981,1.53
+110,Ireland,1982,0.94
+111,"Hong Kong SAR, China",1982,1.69
+112,Luxembourg,1982,1.75
+113,Singapore,1982,3.73
+114,Malta,1982,1.38
+115,Ireland,1983,0.98
+116,"Hong Kong SAR, China",1983,1.86
+117,Luxembourg,1983,1.76
+118,Singapore,1983,3.33
+119,Malta,1983,1.33
+120,Ireland,1984,1.08
+121,"Hong Kong SAR, China",1984,2.0
+122,Luxembourg,1984,1.95
+123,Singapore,1984,3.13
+124,Malta,1984,1.39
+125,Ireland,1985,1.08
+126,"Hong Kong SAR, China",1985,1.98
+127,Luxembourg,1985,2.07
+128,Singapore,1985,3.04
+129,Malta,1985,1.44
+130,Ireland,1986,0.97
+131,"Hong Kong SAR, China",1986,2.0
+132,Luxembourg,1986,1.89
+133,Singapore,1986,2.95
+134,Malta,1986,1.38
+135,Ireland,1987,1.01
+136,"Hong Kong SAR, China",1987,2.15
+137,Luxembourg,1987,1.87
+138,Singapore,1987,3.25
+139,Malta,1987,1.48
+140,Ireland,1988,1.05
+141,"Hong Kong SAR, China",1988,2.31
+142,Luxembourg,1988,1.89
+143,Singapore,1988,3.6
+144,Malta,1988,1.5
+145,Ireland,1989,1.12
+146,"Hong Kong SAR, China",1989,2.25
+147,Luxembourg,1989,1.91
+148,Singapore,1989,3.48
+149,Malta,1989,1.55
+150,Ireland,1990,1.05
+151,"Hong Kong SAR, China",1990,2.26
+152,Luxembourg,1990,1.88
+153,Singapore,1990,3.44
+154,Malta,1990,1.64
+155,Ireland,1991,1.06
+156,"Hong Kong SAR, China",1991,2.32
+157,Luxembourg,1991,1.89
+158,Singapore,1991,3.24
+159,Malta,1991,1.65
+160,Ireland,1992,1.1
+161,"Hong Kong SAR, China",1992,2.4
+162,Luxembourg,1992,1.83
+163,Singapore,1992,3.11
+164,Malta,1992,1.7
+165,Ireland,1993,1.17
+166,"Hong Kong SAR, China",1993,2.34
+167,Luxembourg,1993,1.81
+168,Singapore,1993,3.13
+169,Malta,1993,1.79
+170,Ireland,1994,1.26
+171,"Hong Kong SAR, China",1994,2.37
+172,Luxembourg,1994,1.86
+173,Singapore,1994,3.16
+174,Malta,1994,1.82
+175,Ireland,1995,1.36
+176,"Hong Kong SAR, China",1995,2.57
+177,Luxembourg,1995,1.9
+178,Singapore,1995,3.45
+179,Malta,1995,2.59
+180,Ireland,1996,1.39
+181,"Hong Kong SAR, China",1996,2.45
+182,Luxembourg,1996,1.96
+183,Singapore,1996,3.35
+184,Malta,1996,2.38
+185,Ireland,1997,1.42
+186,"Hong Kong SAR, China",1997,2.33
+187,Luxembourg,1997,2.12
+188,Singapore,1997,3.24
+189,Malta,1997,2.26
+190,Ireland,1998,1.58
+191,"Hong Kong SAR, China",1998,2.21
+192,Luxembourg,1998,2.37
+193,Singapore,1998,3.12
+194,Malta,1998,2.25
+195,Ireland,1999,1.6
+196,"Hong Kong SAR, China",1999,2.2
+197,Luxembourg,1999,2.4
+198,Singapore,1999,3.36
+199,Malta,1999,2.28
+200,Ireland,2000,1.75
+201,"Hong Kong SAR, China",2000,2.48
+202,Luxembourg,2000,2.72
+203,Singapore,2000,3.64
+204,Malta,2000,2.49
+205,Ireland,2001,1.75
+206,"Hong Kong SAR, China",2001,2.41
+207,Luxembourg,2001,2.71
+208,Singapore,2001,3.49
+209,Malta,2001,2.21
+210,Ireland,2002,1.64
+211,"Hong Kong SAR, China",2002,2.56
+212,Luxembourg,2002,2.51
+213,Singapore,2002,3.5
+214,Malta,2002,2.24
+215,Ireland,2003,1.47
+216,"Hong Kong SAR, China",2003,2.92
+217,Luxembourg,2003,2.45
+218,Singapore,2003,3.77
+219,Malta,2003,2.18
+220,Ireland,2004,1.47
+221,"Hong Kong SAR, China",2004,3.27
+222,Luxembourg,2004,2.65
+223,Singapore,2004,4.02
+224,Malta,2004,2.13
+225,Ireland,2005,1.48
+226,"Hong Kong SAR, China",2005,3.43
+227,Luxembourg,2005,2.84
+228,Singapore,2005,4.2
+229,Malta,2005,2.18
+230,Ireland,2006,1.5
+231,"Hong Kong SAR, China",2006,3.59
+232,Luxembourg,2006,3.06
+233,Singapore,2006,4.25
+234,Malta,2006,2.54
+235,Ireland,2007,1.53
+236,"Hong Kong SAR, China",2007,3.62
+237,Luxembourg,2007,3.07
+238,Singapore,2007,3.94
+239,Malta,2007,2.62
+240,Ireland,2008,1.6
+241,"Hong Kong SAR, China",2008,3.77
+242,Luxembourg,2008,2.92
+243,Singapore,2008,4.37
+244,Malta,2008,2.99
+245,Ireland,2009,1.74
+246,"Hong Kong SAR, China",2009,3.48
+247,Luxembourg,2009,2.64
+248,Singapore,2009,3.58
+249,Malta,2009,2.95
+250,Ireland,2010,1.9
+251,"Hong Kong SAR, China",2010,4.05
+252,Luxembourg,2010,2.94
+253,Singapore,2010,3.7
+254,Malta,2010,3.02
+255,Ireland,2011,1.88
+256,"Hong Kong SAR, China",2011,4.22
+257,Luxembourg,2011,3.09
+258,Singapore,2011,3.79
+259,Malta,2011,3.2
+260,Ireland,2012,1.91
+261,"Hong Kong SAR, China",2012,4.31
+262,Luxembourg,2012,3.12
+263,Singapore,2012,3.69
+264,Malta,2012,3.23
+265,Ireland,2013,1.89
+266,"Hong Kong SAR, China",2013,4.43
+267,Luxembourg,2013,3.21
+268,Singapore,2013,3.67
+269,Malta,2013,3.04
+270,Ireland,2014,2.02
+271,"Hong Kong SAR, China",2014,4.26
+272,Luxembourg,2014,3.33
+273,Singapore,2014,3.6
+274,Malta,2014,2.88
+275,Ireland,2015,2.15
+276,"Hong Kong SAR, China",2015,3.89
+277,Luxembourg,2015,3.51
+278,Singapore,2015,3.29
+279,Malta,2015,2.99
+280,Ireland,2016,2.28
+281,"Hong Kong SAR, China",2016,3.72
+282,Luxembourg,2016,3.48
+283,Singapore,2016,3.03
+284,Malta,2016,3.03
+285,Ireland,2017,2.2
+286,"Hong Kong SAR, China",2017,3.77
+287,Luxembourg,2017,3.54
+288,Singapore,2017,3.16
+289,Malta,2017,2.91
+290,Ireland,2018,2.17
+291,"Hong Kong SAR, China",2018,3.77
+292,Luxembourg,2018,3.62
+293,Singapore,2018,3.24
+294,Malta,2018,2.73
+295,Ireland,2019,2.52
+296,"Hong Kong SAR, China",2019,3.54
+297,Luxembourg,2019,3.78
+298,Singapore,2019,3.22
+299,Malta,2019,2.75
+300,Ireland,2020,2.48
+301,"Hong Kong SAR, China",2020,3.51
+302,Luxembourg,2020,3.65
+303,Singapore,2020,3.32
+304,Malta,2020,2.92
+305,Ireland,2021,2.29
+306,"Hong Kong SAR, China",2021,4.02
+307,Luxembourg,2021,3.88
+308,Singapore,2021,3.38
+309,Malta,2021,2.88
