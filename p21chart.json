@@ -1,0 +1,57 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21v2.csv"
+    },
+    "height": 300,
+    "width": 350,
+    "title": {
+      "text": "% of GDP from Trade in the 21 Most Populous Countries",
+      "anchor": "start",
+      "subtitle": ["Sorted by smallest to largest values in 2021","Source: World Bank"]
+    },
+    "params": [
+      {
+        "name": "year",
+        "value": 2021,
+        "bind": {
+          "input": "range",
+          "min": 1970,
+          "max": 2021,
+          "step": 1,
+          "name": "Year"
+        }
+      },
+      {"name": "highlight", "select": {"type": "point", "on": "mouseover"}}
+    ],
+    "transform": [
+      {"calculate": "toNumber(year)", "as": "yearS"},
+      {"filter": "datum.yearS == datum.Year"}
+    ],
+    "mark": "bar",
+    "encoding": {
+      "x": {
+        "field": "Country",
+        "type": "nominal",
+        "sort": {"field": "rank", "order": "ascending"},
+        "title": ""
+      },
+      "y": {
+        "field": "GDP",
+        "type": "quantitative",
+        "axis": {"format": "%", "gridOpacity": 0.5},
+        "title": "Trade as % of GDP"
+      },
+      "color": {
+        "field": "rank2",
+        "type": "quantitative",
+        "legend": null,
+        "scale": {"range": ["#000", "#880000"]}
+      },
+      "opacity": {"condition": {"test": {"param": "highlight" },"value": 1}, "value": 0.4 },
+      "tooltip": [
+        {"field": "Country"},
+        {"field": "GDP", "type": "quantitative", "format": ".2%"}
+      ]
+    }
+  }

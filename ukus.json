@@ -1,0 +1,89 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/ukusdtav1.csv"
+    },
+    "height": 350,
+    "width": 350,
+    "title": {
+      "text": "Openness: Trade as % of GDP UK vs US",
+      "anchor": "start",
+      "subtitle": "Source: World Bank"
+    },
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "axis": {"gridOpacity": 0.2},
+        "title": ""
+      }
+    },
+    "layer": [
+      {
+        "encoding": {
+          "color": {
+            "field": "Country Name",
+            "type": "nominal",
+            "legend": {"title": ""},
+            "scale": {"range": ["#880000", "#ff0303"]}
+          },
+          "y": {
+            "field": "Percent of GDP",
+            "type": "quantitative",
+            "axis": {"gridOpacity": 0.2, "format": "%"},
+            "title": "% of GDP"
+          }
+        },
+        "layer": [
+          {"mark": {"type": "line"}},
+          {
+            "transform": [{"filter": {"param": "hover", "empty": false}}],
+            "mark": "point"
+          }
+        ]
+      },
+      {
+        "transform": [
+          {"pivot": "Country Name", "value": "Percent of GDP", "groupby": ["Year"]}
+        ],
+        "mark": "rule",
+        "encoding": {
+          "opacity": {
+            "condition": {"value": 0.5, "param": "hover", "empty": false},
+            "value": 0
+          },
+          "tooltip": [
+            {
+              "field": "United Kingdom",
+              "type": "quantitative",
+              "title": "% of United Kingdom GDP from trade",
+              "format": ".2%"
+            },
+            {
+              "field": "United States",
+              "type": "quantitative",
+              "title": "% of United States GDP from trade",
+              "format": ".2%"
+            },
+             {
+              "field": "Year",
+              "type": "temporal",
+             "format": "%Y"
+            }
+          ]
+        },
+        "params": [
+          {
+            "name": "hover",
+            "select": {
+              "type": "point",
+              "fields": ["Year"],
+              "nearest": true,
+              "on": "mouseover",
+              "clear": "mouseout"
+            }
+          }
+        ]
+      }
+    ]
+  }
