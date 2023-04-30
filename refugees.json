@@ -1,0 +1,80 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {
+      "text": ["Refugee Arrivals By Country for 2022.", "Total = 25465"],
+      "anchor": "start",
+      "subtitle": "Source: Department of Homeland Security"
+    },
+    "height": 300,
+    "width": 400,
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/flowsv4.csv"
+    },
+    "layer": [
+      {
+        "params": [
+          {"name": "highlight", "select": {"type": "point", "on": "mouseover"}}
+        ],
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "Count",
+            "type": "quantitative",
+            "axis": {"gridOpacity": 0.5},
+            "title": "Refugees",
+            "scale": {"domain": [0, 9000]}
+            
+          },
+          "y": {
+            "field": "Country",
+            "type": "nominal",
+            "sort": {"field": "rank", "order": "descending"},
+            "title": "",
+            "axis": {
+              "labelFontWeight": "normal",
+              "labelFontSize": 11,
+              "tickSize": 5,
+              "tickWidth": 2
+            },
+            "scale": {"paddingInner": 0.2, "padding": 0.1}
+          },
+          "color": {
+            "field": "Count",
+            "type": "quantitative",
+            "legend": null,
+            "scale": {"range": ["#000", "#880000"]}
+          },
+          "opacity": {
+            "condition": {"test": {"param": "highlight"}, "value": 1},
+            "value": 0.4
+          },
+          "tooltip": [
+            {"field": "Country"},
+            {
+              "field": "Count",
+              "type": "quantitative",
+              "format": "",
+              "title": "Number of Refugees"
+            },
+            {
+              "field": "pct",
+              "type": "quantitative",
+              "format": ".2%",
+              "title": "% of total refugees"
+            }
+          ]
+        }
+      },
+      {
+        "mark": {"type": "text", "align": "left", "baseline": "top", "dx": 5, "dy":-4, "fontSize": 10, "fontWeight": "lighter"},
+        "encoding": {
+          "text": {"field": "Count"},
+          "y": {
+            "field": "Country",
+            "sort": {"field": "rank", "order": "descending"}
+          },
+          "x": {"field": "Count", "type": "quantitative"}
+        }
+      }
+    ]
+  }
