@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-      "text": ["Refugee Arrivals Into the US By Country for 2022.", "Total = 25465"],
+      "text": ["Refugee Arrivals Into the US By Country for 2022."],
       "anchor": "start",
       "subtitle": "Source: Department of Homeland Security"
     },
@@ -61,7 +61,8 @@
               "type": "quantitative",
               "format": ".2%",
               "title": "% of total refugees"
-            }
+            },
+            {"field": "total", "title": "Total Refugees Accepted"}
           ]
         }
       },
