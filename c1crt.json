@@ -1,0 +1,84 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/c1dtav1.csv"
+    },
+    "title": {
+      "text": "Urbanization Rate 1950-2050",
+      "anchor": "start",
+      "subtitle": "Source: United Nations"
+    },
+    "params": [
+      {
+        "name": "View",
+        "select": {
+          "type": "point",
+          "fields": ["Region, subregion, country or area"]
+        },
+        "bind": {
+          "input": "select",
+          "options": [
+            "High-income countries",
+            "Least developed countries",
+            "Less developed regions",
+            "Less developed regions, excluding China",
+            "Less developed regions, excluding least developed countries",
+            "Low-income countries",
+            "Lower-middle-income countries",
+            "Middle-income countries",
+            "More developed regions",
+            "Sub-Saharan Africa",
+            "Upper-middle-income countries",
+            "World"
+          ],
+          "name": "Region Average:"
+        },
+        "value": "World"
+      }
+    ],
+    "transform": [
+      {"calculate": "datum.Urban/100", "as": "Urban2"},
+      {"filter": {"param": "View"}}
+    ],
+    "height": 350,
+    "width": 350,
+    "mark": {"type": "line", "interpolate": "linear", "tension": 0.8},
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "axis": {"format": "%Y", "gridOpacity": 0.2}
+      },
+      "y": {
+        "field": "Urban2",
+        "type": "quantitative",
+        "axis": {"format": "%", "gridOpacity": 0.2},
+        "title": "Urbanization Rate"
+      },
+      "color": {
+        "field": "Region, subregion, country or area",
+        "legend": null,
+        "scale": {
+          "domain": [
+            "High-income countries",
+            "Least developed countries",
+            "Less developed regions",
+            "Less developed regions, excluding China",
+            "Less developed regions, excluding least developed countries",
+            "Low-income countries",
+            "Lower-middle-income countries",
+            "Middle-income countries",
+            "More developed regions",
+            "Sub-Saharan Africa",
+            "Upper-middle-income countries",
+            "World"
+          ],
+          "range": ["#a12800", "#290c03", "#880000"]
+        }
+      },
+      "tooltip": [
+        {"field": "Region, subregion, country or area", "title": "Region"},
+        {"field": "Urban2", "title": "Urabnization Rate", "format": ".2%"}
+      ]
+    }
+  }
