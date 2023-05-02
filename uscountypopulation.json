@@ -1,0 +1,35 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "title": {"text": "US Urbanization: County Share of Total US Opulation", "anchor": "start", "subtitle": "Source: US Census Bureau"},
+    "width": 500,
+    "height": 320,
+    "data": {
+      "url": "https://cdn.jsdelivr.net/npm/us-atlas@3/counties-10m.json",
+      "format": {"type": "topojson", "feature": "counties"}
+    },
+    "transform": [
+      {
+        "lookup": "id",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/statesfipspopv5.csv"
+          },
+          "key": "id",
+          "fields": ["2022", "FIPS", "County Name", "pct", "id"]
+        },
+        "default": "-0.00"
+      }, 
+      
+    ],
+    "projection": {"type": "albersUsa"},
+    "mark": "geoshape",
+    "encoding": {
+      "color": {
+        "field": "pct",
+        "type": "quantitative",
+        "scale": {
+          "range": ["black", "darkorange", "orange", "gold", "goldred", "red"]
+        }, "legend": {"format": "%", "title": "Share of Total", "orient": "left"}
+      }
+    }
+  }
