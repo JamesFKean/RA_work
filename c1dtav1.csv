@@ -1,0 +1,253 @@
+,"Region, subregion, country or area",Year,Urban
+0,High-income countries,1950,58.51
+1,High-income countries,1955,61.14
+2,High-income countries,1960,63.76
+3,High-income countries,1965,66.25
+4,High-income countries,1970,68.68
+5,High-income countries,1975,70.45
+6,High-income countries,1980,71.85
+7,High-income countries,1985,73.11
+8,High-income countries,1990,74.43
+9,High-income countries,1995,75.67
+10,High-income countries,2000,76.8
+11,High-income countries,2005,78.59
+12,High-income countries,2010,80.05
+13,High-income countries,2015,80.95
+14,High-income countries,2020,81.85
+15,High-income countries,2025,82.84
+16,High-income countries,2030,83.92
+17,High-income countries,2035,85.05
+18,High-income countries,2040,86.21
+19,High-income countries,2045,87.34
+20,High-income countries,2050,88.39
+21,Least developed countries,1950,7.54
+22,Least developed countries,1955,8.53
+23,Least developed countries,1960,9.66
+24,Least developed countries,1965,11.06
+25,Least developed countries,1970,12.85
+26,Least developed countries,1975,14.53
+27,Least developed countries,1980,17.13
+28,Least developed countries,1985,19.26
+29,Least developed countries,1990,21.5
+30,Least developed countries,1995,23.39
+31,Least developed countries,2000,25.02
+32,Least developed countries,2005,27.13
+33,Least developed countries,2010,29.46
+34,Least developed countries,2015,31.98
+35,Least developed countries,2020,34.64
+36,Least developed countries,2025,37.44
+37,Least developed countries,2030,40.36
+38,Least developed countries,2035,43.36
+39,Least developed countries,2040,46.38
+40,Least developed countries,2045,49.42
+41,Least developed countries,2050,52.47
+42,Less developed regions,1950,17.7
+43,Less developed regions,1955,19.71
+44,Less developed regions,1960,21.91
+45,Less developed regions,1965,23.98
+46,Less developed regions,1970,25.27
+47,Less developed regions,1975,26.94
+48,Less developed regions,1980,29.4
+49,Less developed regions,1985,32.23
+50,Less developed regions,1990,34.9
+51,Less developed regions,1995,37.49
+52,Less developed regions,2000,40.05
+53,Less developed regions,2005,43.09
+54,Less developed regions,2010,46.14
+55,Less developed regions,2015,48.98
+56,Less developed regions,2020,51.72
+57,Less developed regions,2025,54.28
+58,Less developed regions,2030,56.71
+59,Less developed regions,2035,59.03
+60,Less developed regions,2040,61.27
+61,Less developed regions,2045,63.42
+62,Less developed regions,2050,65.56
+63,"Less developed regions, excluding China",1950,20.33
+64,"Less developed regions, excluding China",1955,22.29
+65,"Less developed regions, excluding China",1960,24.29
+66,"Less developed regions, excluding China",1965,26.36
+67,"Less developed regions, excluding China",1970,28.55
+68,"Less developed regions, excluding China",1975,30.91
+69,"Less developed regions, excluding China",1980,33.36
+70,"Less developed regions, excluding China",1985,35.69
+71,"Less developed regions, excluding China",1990,37.88
+72,"Less developed regions, excluding China",1995,39.61
+73,"Less developed regions, excluding China",2000,41.23
+74,"Less developed regions, excluding China",2005,43.01
+75,"Less developed regions, excluding China",2010,44.93
+76,"Less developed regions, excluding China",2015,46.82
+77,"Less developed regions, excluding China",2020,48.79
+78,"Less developed regions, excluding China",2025,50.86
+79,"Less developed regions, excluding China",2030,53.07
+80,"Less developed regions, excluding China",2035,55.39
+81,"Less developed regions, excluding China",2040,57.8
+82,"Less developed regions, excluding China",2045,60.23
+83,"Less developed regions, excluding China",2050,62.66
+84,"Less developed regions, excluding least developed countries",1950,19.0
+85,"Less developed regions, excluding least developed countries",1955,21.13
+86,"Less developed regions, excluding least developed countries",1960,23.48
+87,"Less developed regions, excluding least developed countries",1965,25.65
+88,"Less developed regions, excluding least developed countries",1970,26.88
+89,"Less developed regions, excluding least developed countries",1975,28.54
+90,"Less developed regions, excluding least developed countries",1980,31.02
+91,"Less developed regions, excluding least developed countries",1985,33.99
+92,"Less developed regions, excluding least developed countries",1990,36.77
+93,"Less developed regions, excluding least developed countries",1995,39.55
+94,"Less developed regions, excluding least developed countries",2000,42.38
+95,"Less developed regions, excluding least developed countries",2005,45.72
+96,"Less developed regions, excluding least developed countries",2010,49.05
+97,"Less developed regions, excluding least developed countries",2015,52.12
+98,"Less developed regions, excluding least developed countries",2020,55.08
+99,"Less developed regions, excluding least developed countries",2025,57.82
+100,"Less developed regions, excluding least developed countries",2030,60.38
+101,"Less developed regions, excluding least developed countries",2035,62.8
+102,"Less developed regions, excluding least developed countries",2040,65.09
+103,"Less developed regions, excluding least developed countries",2045,67.26
+104,"Less developed regions, excluding least developed countries",2050,69.39
+105,Low-income countries,1950,9.32
+106,Low-income countries,1955,10.39
+107,Low-income countries,1960,11.9
+108,Low-income countries,1965,13.47
+109,Low-income countries,1970,15.66
+110,Low-income countries,1975,17.47
+111,Low-income countries,1980,19.11
+112,Low-income countries,1985,20.89
+113,Low-income countries,1990,22.76
+114,Low-income countries,1995,24.35
+115,Low-income countries,2000,25.68
+116,Low-income countries,2005,27.16
+117,Low-income countries,2010,28.91
+118,Low-income countries,2015,30.93
+119,Low-income countries,2020,33.17
+120,Low-income countries,2025,35.65
+121,Low-income countries,2030,38.34
+122,Low-income countries,2035,41.2
+123,Low-income countries,2040,44.16
+124,Low-income countries,2045,47.17
+125,Low-income countries,2050,50.21
+126,Lower-middle-income countries,1950,17.21
+127,Lower-middle-income countries,1955,18.56
+128,Lower-middle-income countries,1960,19.85
+129,Lower-middle-income countries,1965,21.17
+130,Lower-middle-income countries,1970,22.59
+131,Lower-middle-income countries,1975,24.33
+132,Lower-middle-income countries,1980,26.35
+133,Lower-middle-income countries,1985,28.16
+134,Lower-middle-income countries,1990,30.02
+135,Lower-middle-income countries,1995,31.59
+136,Lower-middle-income countries,2000,33.14
+137,Lower-middle-income countries,2005,35.02
+138,Lower-middle-income countries,2010,37.12
+139,Lower-middle-income countries,2015,39.25
+140,Lower-middle-income countries,2020,41.6
+141,Lower-middle-income countries,2025,44.18
+142,Lower-middle-income countries,2030,46.95
+143,Lower-middle-income countries,2035,49.89
+144,Lower-middle-income countries,2040,52.92
+145,Lower-middle-income countries,2045,55.99
+146,Lower-middle-income countries,2050,59.03
+147,Middle-income countries,1950,19.89
+148,Middle-income countries,1955,22.17
+149,Middle-income countries,1960,24.55
+150,Middle-income countries,1965,26.68
+151,Middle-income countries,1970,27.83
+152,Middle-income countries,1975,29.36
+153,Middle-income countries,1980,31.66
+154,Middle-income countries,1985,34.27
+155,Middle-income countries,1990,36.71
+156,Middle-income countries,1995,39.14
+157,Middle-income countries,2000,41.64
+158,Middle-income countries,2005,44.72
+159,Middle-income countries,2010,47.86
+160,Middle-income countries,2015,50.83
+161,Middle-income countries,2020,53.74
+162,Middle-income countries,2025,56.46
+163,Middle-income countries,2030,59.05
+164,Middle-income countries,2035,61.51
+165,Middle-income countries,2040,63.86
+166,Middle-income countries,2045,66.11
+167,Middle-income countries,2050,68.32
+168,More developed regions,1950,54.77
+169,More developed regions,1955,57.93
+170,More developed regions,1960,61.09
+171,More developed regions,1965,64.06
+172,More developed regions,1970,66.8
+173,More developed regions,1975,68.84
+174,More developed regions,1980,70.29
+175,More developed regions,1985,71.39
+176,More developed regions,1990,72.35
+177,More developed regions,1995,73.3
+178,More developed regions,2000,74.24
+179,More developed regions,2005,75.86
+180,More developed regions,2010,77.25
+181,More developed regions,2015,78.13
+182,More developed regions,2020,79.07
+183,More developed regions,2025,80.16
+184,More developed regions,2030,81.38
+185,More developed regions,2035,82.69
+186,More developed regions,2040,84.04
+187,More developed regions,2045,85.36
+188,More developed regions,2050,86.59
+189,Sub-Saharan Africa,1950,11.1
+190,Sub-Saharan Africa,1955,12.85
+191,Sub-Saharan Africa,1960,14.89
+192,Sub-Saharan Africa,1965,16.52
+193,Sub-Saharan Africa,1970,18.3
+194,Sub-Saharan Africa,1975,20.42
+195,Sub-Saharan Africa,1980,22.59
+196,Sub-Saharan Africa,1985,24.9
+197,Sub-Saharan Africa,1990,27.47
+198,Sub-Saharan Africa,1995,29.57
+199,Sub-Saharan Africa,2000,31.42
+200,Sub-Saharan Africa,2005,33.7
+201,Sub-Saharan Africa,2010,36.15
+202,Sub-Saharan Africa,2015,38.78
+203,Sub-Saharan Africa,2020,41.45
+204,Sub-Saharan Africa,2025,44.19
+205,Sub-Saharan Africa,2030,46.97
+206,Sub-Saharan Africa,2035,49.75
+207,Sub-Saharan Africa,2040,52.52
+208,Sub-Saharan Africa,2045,55.29
+209,Sub-Saharan Africa,2050,58.05
+210,Upper-middle-income countries,1950,22.08
+211,Upper-middle-income countries,1955,25.08
+212,Upper-middle-income countries,1960,28.4
+213,Upper-middle-income countries,1965,31.26
+214,Upper-middle-income countries,1970,32.19
+215,Upper-middle-income countries,1975,33.59
+216,Upper-middle-income countries,1980,36.28
+217,Upper-middle-income countries,1985,39.79
+218,Upper-middle-income countries,1990,42.91
+219,Upper-middle-income countries,1995,46.44
+220,Upper-middle-income countries,2000,50.26
+221,Upper-middle-income countries,2005,55.02
+222,Upper-middle-income countries,2010,59.76
+223,Upper-middle-income countries,2015,64.12
+224,Upper-middle-income countries,2020,68.2
+225,Upper-middle-income countries,2025,71.75
+226,Upper-middle-income countries,2030,74.76
+227,Upper-middle-income countries,2035,77.28
+228,Upper-middle-income countries,2040,79.34
+229,Upper-middle-income countries,2045,81.02
+230,Upper-middle-income countries,2050,82.56
+231,World,1950,29.61
+232,World,1955,31.64
+233,World,1960,33.75
+234,World,1965,35.59
+235,World,1970,36.59
+236,World,1975,37.72
+237,World,1980,39.35
+238,World,1985,41.2
+239,World,1990,42.96
+240,World,1995,44.78
+241,World,2000,46.68
+242,World,2005,49.16
+243,World,2010,51.66
+244,World,2015,53.93
+245,World,2020,56.17
+246,World,2025,58.33
+247,World,2030,60.43
+248,World,2035,62.48
+249,World,2040,64.47
+250,World,2045,66.42
+251,World,2050,68.36
