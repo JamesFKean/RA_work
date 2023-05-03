@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21urbanv4.csv"
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21urbanv5.csv"
     },
     "title": {
       "text": "Urabnization Rate for the 21 Most Populous Countries in 1950 and 2050",
@@ -10,6 +10,13 @@
     },
     "height": 350,
     "width": 350,
+    "params": [
+      {
+        "name": "Order",
+        "value": "descending",
+        "bind": {"input": "select", "options": ["ascending", "descending"]}
+      }
+    ],
     "layer": [
       {
         "params": [
@@ -24,7 +31,8 @@
           },
           "y": {
             "field": "Country",
-            "sort": {"field": "rank", "order": "descending"}, "axis": {"labelFontSize": 11 }
+            "sort": {"field": "ranked", "order": {"signal": "Order"}},
+            "axis": {"labelFontSize": 11}
           },
           "yOffset": {"field": "variable"},
           "color": {
@@ -39,9 +47,15 @@
         }
       },
       {
-        "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 2, "size": 10},
+        "mark": {
+          "type": "text",
+          "align": "left",
+          "baseline": "middle",
+          "dx": 2,
+          "size": 10
+        },
         "encoding": {
-          "text": {"field": "value", "type": "quantitative", "format": ".2%", },
+          "text": {"field": "value", "type": "quantitative", "format": ".2%"},
           "x": {
             "field": "value",
             "type": "quantitative",
@@ -63,5 +77,6 @@
           }
         }
       }
-    ], "config": {"view": {"stroke": null}}
+    ],
+    "config": {"view": {"stroke": null}}
   }
