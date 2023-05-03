@@ -20,7 +20,7 @@
           "x": {
             "field": "value",
             "type": "quantitative",
-            "axis": {"format": "%", "gridOpacity": 0.5, "title": null}
+            "axis": {"format": "%", "gridOpacity": 0.2, "title": null}
           },
           "y": {
             "field": "Country",
@@ -39,9 +39,9 @@
         }
       },
       {
-        "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 2},
+        "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 2, "size": 10},
         "encoding": {
-          "text": {"field": "value", "type": "quantitative", "format": ".2%"},
+          "text": {"field": "value", "type": "quantitative", "format": ".2%", },
           "x": {
             "field": "value",
             "type": "quantitative",
@@ -63,5 +63,5 @@
           }
         }
       }
-    ]
+    ], "config": {"view": {"stroke": null}}
   }
