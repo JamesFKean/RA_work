@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21urbanv5.csv"
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21urbanv6.csv"
     },
     "title": {
       "text": "Urabnization Rate for the 21 Most Populous Countries in 1950 and 2050",
@@ -15,8 +15,17 @@
         "name": "Order",
         "value": "descending",
         "bind": {"input": "select", "options": ["ascending", "descending"]}
-      }
+      },
+      {
+      "name": "by",
+      "value": "ranked19",
+      "bind": {"input": "select", "options": ["1950", "2050"]}
+    }
     ],
+    "transform": [{
+      "calculate": "by != '1950' ? datum.ranked19 : datum.ranked20",
+      "as" : "customRank"
+    }],
     "layer": [
       {
         "params": [
@@ -31,7 +40,7 @@
           },
           "y": {
             "field": "Country",
-            "sort": {"field": "ranked", "order": {"signal": "Order"}},
+            "sort": {"field": "customRank", "order": {"signal": "Order"}},
             "axis": {"labelFontSize": 11}
           },
           "yOffset": {"field": "variable"},
