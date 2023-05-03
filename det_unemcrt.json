@@ -1,0 +1,101 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "data": {
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/det_unemploymentv2.csv"
+    },
+    "height": 350,
+    "width": 450,
+    "title": {
+      "text": [
+        "Detroit Unemployment:",
+        "Trend of Consistenly Higher than National Rate of Unemployment"
+      ],
+      "anchor": "start",
+      "subtitle": "Source: Bureau of Labor Statistics"
+    },
+    "transform": [{"calculate": "datum.value/100", "as": "value"}],
+    "encoding": {
+      "x": {
+        "field": "DATE",
+        "type": "temporal",
+        "axis": {"gridOpacity": 0},
+        "title": ""
+      }
+    },
+    "layer": [
+      {
+        "encoding": {
+          "color": {
+            "field": "variable",
+            "scale": {"range": ["#000", "#880000"]},
+            "legend": {
+              "title": null,
+              "orient": "bottom",
+              "labelExpr": "{'Unemployment Detroit': 'Detroit Unemployment Rate', 'Unemployment US': 'US Average Unemployment Rate'}[datum.label]"
+            }
+          },
+          "y": {
+            "field": "value",
+            "type": "quantitative",
+            "axis": {"gridOpacity": 0.2, "format": "%"},
+            "title": "Unemployment Rate"
+          },
+          "x": {
+            "field": "DATE",
+            "type": "temporal",
+            "axis": {"gridOpacity": 0.2},
+            "title": ""
+          }
+        },
+        "layer": [
+          {"mark": {"type": "line", "interpolate": "cardinal", "tension": 0.8}},
+          {
+            "transform": [{"filter": {"param": "hover", "empty": false}}],
+            "mark": "point"
+          }
+        ]
+      },
+      {
+        "transform": [
+          {"pivot": "variable", "value": "value", "groupby": ["DATE"]}
+        ],
+        "mark": "rule",
+        "encoding": {
+          "opacity": {
+            "condition": {"value": 0.5, "param": "hover", "empty": false},
+            "value": 0
+          },
+          "tooltip": [
+            {
+              "field": "Unemployment US",
+              "title": "Unemployment Rate US Average",
+              "format": ".2%"
+            },
+            {
+              "field": "Unemployment Detroit",
+              "title": "Unemployment Rate Detroit",
+              "format": ".2%"
+            },
+            {
+              "field": "DATE",
+              "type": "temporal",
+              "title": "Date",
+              "format": "%m,%Y"
+            }
+          ]
+        },
+        "params": [
+          {
+            "name": "hover",
+            "select": {
+              "type": "point",
+              "fields": ["DATE"],
+              "nearest": true,
+              "on": "mouseover",
+              "clear": "mouseout"
+            }
+          }
+        ]
+      }
+    ]
+  }
