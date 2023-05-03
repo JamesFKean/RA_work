@@ -13,7 +13,7 @@
     "params": [
       {
         "name": "Order",
-        "value": "descending",
+        "value": "ascending",
         "bind": {"input": "select", "options": ["ascending", "descending"]}
       },
       {
@@ -23,7 +23,7 @@
     }
     ],
     "transform": [{
-      "calculate": "by != '1950' ? datum.ranked19 : datum.ranked20",
+      "calculate": "by != '2050' ? datum.ranked19 : datum.ranked20",
       "as" : "customRank"
     }],
     "layer": [
