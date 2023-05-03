@@ -8,7 +8,7 @@
     "title": {
       "text": [
         "Detroit Unemployment:",
-        "Trend of Consistenly Higher than National Rate of Unemployment"
+        "Trend of Consistenly Higher than National Average Rate of Unemployment"
       ],
       "anchor": "start",
       "subtitle": "Source: Bureau of Labor Statistics"
@@ -31,7 +31,7 @@
             "legend": {
               "title": null,
               "orient": "bottom",
-              "labelExpr": "{'Unemployment Detroit': 'Detroit Unemployment Rate', 'Unemployment US': 'US Average Unemployment Rate'}[datum.label]"
+              "labelExpr": "{'Unemployment Detroit': ' US Average Unemployment Rate', 'Unemployment US': 'Detroit Unemployment Rate'}[datum.label]"
             }
           },
           "y": {
