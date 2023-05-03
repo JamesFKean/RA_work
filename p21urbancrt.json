@@ -1,48 +1,67 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "data": {
-      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21urbandtav1.csv"
+      "url": "https://raw.githubusercontent.com/JamesFKean/RA_work/main/p21urbanv4.csv"
     },
-    "repeat": {"layer": ["1950", "2050"]},
-    "params": [
+    "title": {
+      "text": "Urabnization Rate for the 21 Most Populous Countries in 1950 and 2050",
+      "anchor": "start",
+      "subtitle": "Source: United Nations"
+    },
+    "height": 350,
+    "width": 350,
+    "layer": [
       {
-        "views": ["1950", "2050"],
-        "name": "highlight",
-        "select": {"type": "point", "on": "mouseover"}
+        "params": [
+          {"name": "highlight", "select": {"type": "point", "on": "mouseover"}}
+        ],
+        "mark": "bar",
+        "encoding": {
+          "x": {
+            "field": "value",
+            "type": "quantitative",
+            "axis": {"format": "%", "gridOpacity": 0.5, "title": null}
+          },
+          "y": {
+            "field": "Country",
+            "sort": {"field": "rank", "order": "descending"}, "axis": {"labelFontSize": 11 }
+          },
+          "yOffset": {"field": "variable"},
+          "color": {
+            "field": "variable",
+            "scale": {"range": ["#880000", "#000"]},
+            "legend": {"titleFontSize": 15, "labelFontSize": 11, "title": "Year"}
+          },
+          "opacity": {
+            "condition": {"test": {"param": "highlight"}, "value": 1},
+            "value": 0.4
+          }
+        }
+      },
+      {
+        "mark": {"type": "text", "align": "left", "baseline": "middle", "dx": 2},
+        "encoding": {
+          "text": {"field": "value", "type": "quantitative", "format": ".2%"},
+          "x": {
+            "field": "value",
+            "type": "quantitative",
+            "axis": {"format": "%", "gridOpacity": 0.5}
+          },
+          "y": {
+            "field": "Country",
+            "sort": {"field": "rank", "order": "descending"}
+          },
+          "yOffset": {"field": "variable"},
+          "color": {
+            "field": "variable",
+            "scale": {"range": ["#880000", "#000"]},
+            "legend": null
+          },
+          "opacity": {
+            "condition": {"test": {"param": "highlight"}, "value": 1},
+            "value": 0.2
+          }
+        }
       }
-    ],
-    "spec": {
-      "title": {"text": "Urabnization Rate for the 21 Most Populous Countries in 1950 and 2050", "anchor": "start", "subtitle": "Source: United Nations"},
-      "height": 350,
-      "width": 350,
-      "mark": {"type":"bar"},
-      "encoding": {
-        "x": {
-          "aggregate": "sum",
-          "field": {"repeat": "layer"},
-          "type": "quantitative",
-          "title": "Urbanization Rate",
-          "axis": {"format": "%", "gridOpacity": 0.5}
-        },
-        "y": {
-          "field": "Country",
-          "type": "nominal",
-          "sort": {"field": "1950", "order": "ascending"},
-          "axis": {"labelFontSize": 11 }
-        },
-        "color": {
-          "datum": {"repeat": "layer"},
-          "title": "Year",
-          "scale": {"range": ["#880000", "#000"]}, "legend": {"titleFontSize": 15, "labelFontSize": 11}
-        },
-        "opacity": {"value": 0.8},
-        
-        "yOffset": {
-          "datum": {"repeat": "layer"}
-          
-        },
-        "tooltip": [{"field": "Country"}, {"field": "2050", "format": "0.2%", "title": "Urbanization Rate in 2050"}, {"field": "1950", "format": "0.2%", "title": "Urbanization Rate in 1950"}]
-      }
-    },
-    "config": {"mark": {"invalid": null}}
+    ]
   }
